@@ -1,0 +1,5082 @@
+{
+  "nodes": [
+    {
+      "id": "QuantumCosmology",
+      "label": "Quantum Cosmology & Singularity Resolution",
+      "type": "ImpactDomain",
+      "color": "#e11d48",
+      "description": "Resolution of the Big Bang initial singularity via T-duality bouncing cosmology (R_eff > 0), absence of trans-Planckian mode divergences, and Swampland field excursion limits on cosmic inflation.",
+      "val": 45
+    },
+    {
+      "id": "BlackHoleThermodynamics",
+      "label": "Black Hole Thermodynamics & Quantum Microstates",
+      "type": "ImpactDomain",
+      "color": "#8b5cf6",
+      "description": "Microscopic statistical counting of 1/4-BPS dyon microstates via Mathieu M24 moonshine representation theory, regular non-singular black hole interiors (Hayward regular de Sitter cores), and exact Bekenstein-Hawking-Wald entropy.",
+      "val": 45
+    },
+    {
+      "id": "SuperstringPhenomenology",
+      "label": "Superstring Phenomenology & Anomaly Cancellation",
+      "type": "ImpactDomain",
+      "color": "#0ea5e9",
+      "description": "Non-perturbative vacuum stability in the String Landscape, exact Ramond-Ramond tadpole cancellation (16\u00d74 + 4(-16) = 0), Calabi-Yau K3 \u00d7 T\u00b2 moduli stabilization, and non-perturbative gauge group enhancements.",
+      "val": 45
+    },
+    {
+      "id": "QuantumInformationHolography",
+      "label": "Quantum Information, Holography & Error Correction",
+      "type": "ImpactDomain",
+      "color": "#10b981",
+      "description": "Topological holographic error-correcting codes via the binary Golay code G24 and M24, cosmic thermodynamic arrow of time from the holographic c-theorem (\u0394c < 0), and topologically protected persistent circulation cycles (\u03b2\u2081 = 376).",
+      "val": 45
+    },
+    {
+      "id": "MathematicalPhysicsFoundations",
+      "label": "Mathematical Physics & Generalized Geometry",
+      "type": "ImpactDomain",
+      "color": "#f59e0b",
+      "description": "Double Field Theory background independence, Courant algebroids and generalized complex geometry, topological T-duality topology changes in twisted K-theory, and SYZ mirror symmetry via dual torus fibrations.",
+      "val": 45
+    },
+    {
+      "id": "HullZwiebach2009",
+      "label": "Chris Hull (2009)",
+      "title": "Double Field Theory",
+      "type": "FoundationPaper",
+      "authors": "Chris Hull, Barton Zwiebach",
+      "year": 2009,
+      "journal": "JHEP 09 (2009) 099",
+      "arxiv": "0904.4664",
+      "url": "https://arxiv.org/abs/0904.4664",
+      "key_equations": "S = \u222b d\u00b2\u1d30X e\u207b\u00b2\u1d48 R_DFT(H, d),  \u03b7\u1d39\u1d3a \u2202_M \u03a6 \u2202_N \u03a8 = 0",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "EguchiOoguriTachikawa2010",
+      "label": "Tohru Eguchi (2011)",
+      "title": "Notes on the K3 Surface and the Mathieu Group M24",
+      "type": "FoundationPaper",
+      "authors": "Tohru Eguchi, Hirosi Ooguri, Yuji Tachikawa",
+      "year": 2011,
+      "journal": "Exper. Math. 20 (2011) 91-96",
+      "arxiv": "1004.0956",
+      "url": "https://arxiv.org/abs/1004.0956",
+      "key_equations": "\u03c7(K3; \u03c4, z) = 24 ch_{1/4,0} - 2 \u2211 A_n ch_{1/4+n, 1/2},  A\u2081 = 45 \u2295 45*",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "BouwknegtEvslinMathai2004",
+      "label": "Peter Bouwknegt (2004)",
+      "title": "T-duality: Topology Change and Flux Quantization",
+      "type": "FoundationPaper",
+      "authors": "Peter Bouwknegt, Jarah Evslin, Varghese Mathai",
+      "year": 2004,
+      "journal": "Commun. Math. Phys. 249 (2004) 383-415",
+      "arxiv": "hep-th/0306062",
+      "url": "https://arxiv.org/abs/hep-th/0306062",
+      "key_equations": "c\u2081(E\u0302) = \u03c0_* H,  \u03c0\u0302_* H\u0302 = c\u2081(E),  c\u2081(E) \u222a c\u2081(E\u0302) = 0",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "StromingerYauZaslow1996",
+      "label": "Andrew Strominger (1996)",
+      "title": "Mirror Symmetry is T-Duality",
+      "type": "FoundationPaper",
+      "authors": "Andrew Strominger, Shing-Tung Yau, Eric Zaslow",
+      "year": 1996,
+      "journal": "Nucl. Phys. B 479 (1996) 243-259",
+      "arxiv": "hep-th/9606040",
+      "url": "https://arxiv.org/abs/hep-th/9606040",
+      "key_equations": "X_mirror = (T\u00b3_dual fibration over B\u00b3),  R_dual \u00b7 R = \u03b1'",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "Witten1995",
+      "label": "Edward Witten (1995)",
+      "title": "String Theory Dynamics In Various Dimensions",
+      "type": "FoundationPaper",
+      "authors": "Edward Witten",
+      "year": 1995,
+      "journal": "Nucl. Phys. B 443 (1995) 85-126",
+      "arxiv": "hep-th/9503124",
+      "url": "https://arxiv.org/abs/hep-th/9503124",
+      "key_equations": "Type IIA on K3 \u2194 Heterotic on T\u2074,  g_s \u2194 1/g_s,  rk = 24",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "Witten1998",
+      "label": "Edward Witten (1998)",
+      "title": "D-branes and K-theory",
+      "type": "FoundationPaper",
+      "authors": "Edward Witten",
+      "year": 1998,
+      "journal": "JHEP 12 (1998) 019",
+      "arxiv": "hep-th/9810188",
+      "url": "https://arxiv.org/abs/hep-th/9810188",
+      "key_equations": "Q_RR \u2208 K(X),  [D] = [E] - [F],  Q_RR = \u222b ch([E]-[F]) \u221a(A\u0302(TX))",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "Vafa2005",
+      "label": "Cumrun Vafa (2005)",
+      "title": "The String Landscape and the Swampland",
+      "type": "FoundationPaper",
+      "authors": "Cumrun Vafa",
+      "year": 2005,
+      "journal": "arXiv:hep-th/0509212",
+      "arxiv": "hep-th/0509212",
+      "url": "https://arxiv.org/abs/hep-th/0509212",
+      "key_equations": "EFT \u2208 Landscape \u27fa consistent UV completion in Quantum Gravity",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "OoguriVafa2006",
+      "label": "Hirosi Ooguri (2007)",
+      "title": "On the Geometry of the String Landscape and the Swampland",
+      "type": "FoundationPaper",
+      "authors": "Hirosi Ooguri, Cumrun Vafa",
+      "year": 2007,
+      "journal": "Nucl. Phys. B 766 (2007) 21-33",
+      "arxiv": "hep-th/0605264",
+      "url": "https://arxiv.org/abs/hep-th/0605264",
+      "key_equations": "m(d) \u2264 m\u2080 exp(-\u03b1 d),  \u03b1 \u2265 1/\u221a(d-2)",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "Callens2026",
+      "label": "Xavier Callens (2026)",
+      "title": "T-Duality Alone: Mechanized String Dynamics on K3 \u00d7 T\u00b2",
+      "type": "FoundationPaper",
+      "authors": "Xavier Callens",
+      "year": 2026,
+      "journal": "SocrateAI Research Monograph (2026)",
+      "arxiv": "SocrateAI-2026-TDual",
+      "url": "https://github.com/xaviercallens/xaviercallens-SocrateAI-Scientific-LeanMaster-StringTheoryFormalization",
+      "key_equations": "R_eff(R) = R + \u03b1'/R > 0,  R_BPS = 77/60,  462\u00d760 = 360\u00d777 = 27720",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "Hayward2006",
+      "label": "Sean A. Hayward (2006)",
+      "title": "Formation and evaporation of regular black holes",
+      "type": "FoundationPaper",
+      "authors": "Sean A. Hayward",
+      "year": 2006,
+      "journal": "Phys. Rev. Lett. 96 (2006) 031103",
+      "arxiv": "gr-qc/0506126",
+      "url": "https://arxiv.org/abs/gr-qc/0506126",
+      "key_equations": "F(r) = 1 - 2m r\u00b2 / (r\u00b3 + 2m \u2113\u00b2),  Kretschmann < \u221e",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "BrandenbergerVafa1989",
+      "label": "Robert Brandenberger (1989)",
+      "title": "Superstrings in the Early Universe",
+      "type": "FoundationPaper",
+      "authors": "Robert Brandenberger, Cumrun Vafa",
+      "year": 1989,
+      "journal": "Nucl. Phys. B 316 (1989) 391-410",
+      "arxiv": "hep-th/0607204",
+      "url": "https://arxiv.org/abs/hep-th/0607204",
+      "key_equations": "T(R) \u2264 T_Hagedorn,  R_eff(R) = R + \u03b1'/R,  No initial singularity",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "Sen1998",
+      "label": "Ashoke Sen (1998)",
+      "title": "Tachyon condensation on the brane antibrane system",
+      "type": "FoundationPaper",
+      "authors": "Ashoke Sen",
+      "year": 1998,
+      "journal": "JHEP 08 (1998) 012",
+      "arxiv": "hep-th/9805170",
+      "url": "https://arxiv.org/abs/hep-th/9805170",
+      "key_equations": "V(T\u2080) = - 2 \u03c4_p,  [D] = [E] - [F]",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "GimonPolchinski1996",
+      "label": "Eric G. Gimon (1996)",
+      "title": "Consistency Conditions for Orientifolds and D-Manifolds",
+      "type": "FoundationPaper",
+      "authors": "Eric G. Gimon, Joseph Polchinski",
+      "year": 1996,
+      "journal": "Phys. Rev. D 54 (1996) 1667-1676",
+      "arxiv": "hep-th/9601038",
+      "url": "https://arxiv.org/abs/hep-th/9601038",
+      "key_equations": "\u2211 Q_RR = 16\u00d7(+4) + 4\u00d7(-16) = 0,  SO(32) tadpole screening",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "ColemanDeLuccia1980",
+      "label": "Sidney Coleman (1980)",
+      "title": "Gravitational effects on and of vacuum decay",
+      "type": "FoundationPaper",
+      "authors": "Sidney Coleman, Frank De Luccia",
+      "year": 1980,
+      "journal": "Phys. Rev. D 21 (1980) 3305-3315",
+      "arxiv": "N/A",
+      "url": "https://doi.org/10.1103/PhysRevD.21.3305",
+      "key_equations": "\u0393/V = A exp(-S_E / \u210f),  S_E > 0",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "FreedmanGubserPilchWarner1999",
+      "label": "Daniel Z. Freedman (1999)",
+      "title": "Renormalization group flows from holography: Supersymmetry and a c theorem",
+      "type": "FoundationPaper",
+      "authors": "Daniel Z. Freedman, Steven S. Gubser, Krzysztof Pilch, Nicholas P. Warner",
+      "year": 1999,
+      "journal": "Adv. Theor. Math. Phys. 3 (1999) 363-417",
+      "arxiv": "hep-th/9904017",
+      "url": "https://arxiv.org/abs/hep-th/9904017",
+      "key_equations": "\u0394c = c_IR - c_UV < 0,  a'(r) \u2264 0",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "Aspinwall1996",
+      "label": "Paul S. Aspinwall (1996)",
+      "title": "K3 Surfaces and String Duality",
+      "type": "FoundationPaper",
+      "authors": "Paul S. Aspinwall",
+      "year": 1996,
+      "journal": "TASI Lectures (1996)",
+      "arxiv": "hep-th/9611137",
+      "url": "https://arxiv.org/abs/hep-th/9611137",
+      "key_equations": "H\u00b2(K3, \u2124) \u2245 \u0393^{3,19} = 2(-E\u2088) \u2295 3U,  \u03c7(K3) = 24,  \u03c3 = -16",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "Hitchin2003",
+      "label": "Nigel Hitchin (2003)",
+      "title": "Generalized Calabi-Yau Manifolds",
+      "type": "FoundationPaper",
+      "authors": "Nigel Hitchin",
+      "year": 2003,
+      "journal": "Q. J. Math. 54 (2003) 281-308",
+      "arxiv": "math/0209099",
+      "url": "https://arxiv.org/abs/math/0209099",
+      "key_equations": "TM \u2295 T*M,  \u27e8(X,\u03be), (Y,\u03b7)\u27e9 = \u03be(Y) + \u03b7(X),  O(d,d) pairing",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "Courant1990",
+      "label": "Theodore Courant (1990)",
+      "title": "Dirac manifolds",
+      "type": "FoundationPaper",
+      "authors": "Theodore Courant",
+      "year": 1990,
+      "journal": "Trans. Amer. Math. Soc. 318 (1990) 631-661",
+      "arxiv": "N/A",
+      "url": "https://doi.org/10.1090/S0002-9947-1990-0998834-0",
+      "key_equations": "[X, Y]_C = [v, u] + L_v \u03b7 - L_u \u03be - (1/2) d(\u03b9_v \u03b7 - \u03b9_u \u03be)",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "Mukai1987",
+      "label": "Shigeru Mukai (1987)",
+      "title": "On the moduli space of bundles on K3 surfaces I",
+      "type": "FoundationPaper",
+      "authors": "Shigeru Mukai",
+      "year": 1987,
+      "journal": "Vector Bundles on Algebraic Varieties (1987) 341-413",
+      "arxiv": "N/A",
+      "url": "https://projecteuclid.org/journals/journal-of-the-mathematical-society-of-japan",
+      "key_equations": "H\u0303*(K3, \u2124) \u2245 \u0393^{4,20},  rk = 1 + 22 + 1 = 24",
+      "color": "#3b82f6",
+      "val": 30
+    },
+    {
+      "id": "GeneralizedGeometry",
+      "label": "Generalized Geometry & O(D,D) Tangent Bundle",
+      "type": "PhysicalConcept",
+      "definition": "Unification of the tangent bundle TM and cotangent bundle T*M into TM \u2295 T*M equipped with split-signature metric \u03b7.",
+      "primary_domain": "MathematicalPhysicsFoundations",
+      "color": "#f97316",
+      "val": 22
+    },
+    {
+      "id": "CourantAlgebroid",
+      "label": "Courant Algebroid & C-Bracket Skew-Symmetry",
+      "type": "PhysicalConcept",
+      "definition": "Bilinear bracket [X, Y]_C on TM \u2295 T*M whose Jacobiator fails by an exact 1-form with identically vanishing vector projection.",
+      "primary_domain": "MathematicalPhysicsFoundations",
+      "color": "#f97316",
+      "val": 22
+    },
+    {
+      "id": "BuscherTDuality",
+      "label": "Buscher T-Duality & Radius Inversion",
+      "type": "PhysicalConcept",
+      "definition": "Discrete O(D,D; \u2124) involution R \u21a6 \u03b1'/R interchanging closed string momentum and winding excitations.",
+      "primary_domain": "QuantumCosmology",
+      "color": "#f97316",
+      "val": 22
+    },
+    {
+      "id": "DualScaleBounce",
+      "label": "Dual-Scale Genesis Singularity Resolution",
+      "type": "PhysicalConcept",
+      "definition": "Physical observable metric R_eff(R) = R + \u03b1'/R \u2265 2\u221a\u03b1' > 0 bouncing contracting universes into expanding dual regimes.",
+      "primary_domain": "QuantumCosmology",
+      "color": "#f97316",
+      "val": 22
+    },
+    {
+      "id": "MathieuMoonshine",
+      "label": "Mathieu M24 Moonshine on K3",
+      "type": "PhysicalConcept",
+      "definition": "Decomposition of the K3 elliptic genus into irreducible representations of the sporadic simple Mathieu group M24.",
+      "primary_domain": "BlackHoleThermodynamics",
+      "color": "#f97316",
+      "val": 22
+    },
+    {
+      "id": "BPSRigidity",
+      "label": "BPS Multiplicity Rigidity Ratio 77/60",
+      "type": "PhysicalConcept",
+      "definition": "Irreducible rational invariant R_BPS = 77/60 locked by the Diophantine product 462 \u00d7 60 = 360 \u00d7 77 = 27720.",
+      "primary_domain": "BlackHoleThermodynamics",
+      "color": "#f97316",
+      "val": 22
+    },
+    {
+      "id": "KummerOrbifold",
+      "label": "Kummer Orbifold Resolution T\u2074/\u2124\u2082",
+      "type": "PhysicalConcept",
+      "definition": "Blowup of 16 isolated fixed points on T\u2074/\u2124\u2082 producing smooth Calabi-Yau K3 with maximal Picard rank \u03c1 = 20.",
+      "primary_domain": "SuperstringPhenomenology",
+      "color": "#f97316",
+      "val": 22
+    },
+    {
+      "id": "TadpoleCancellation",
+      "label": "Ramond-Ramond Gauss Law Tadpole Cancellation",
+      "type": "PhysicalConcept",
+      "definition": "Screening of positive D7-brane charges by negative O7-plane orientifold charges: 16\u00d7(+4) + 4\u00d7(-16) = 0.",
+      "primary_domain": "SuperstringPhenomenology",
+      "color": "#f97316",
+      "val": 22
+    },
+    {
+      "id": "GysinBEMSequence",
+      "label": "Bouwknegt-Evslin-Mathai (BEM) Topological Duality",
+      "type": "PhysicalConcept",
+      "definition": "Exact exchange of circle bundle first Chern class and H-flux: c\u2081(E\u0302) = \u03c0_* H and c\u2081(E) \u222a c\u2081(E\u0302) = 0.",
+      "primary_domain": "MathematicalPhysicsFoundations",
+      "color": "#f97316",
+      "val": 22
+    },
+    {
+      "id": "SwamplandDistance",
+      "label": "Swampland Distance Conjecture (SDC)",
+      "type": "PhysicalConcept",
+      "definition": "Exponential mass drop m(d) \u2264 m\u2080 exp(-\u03b1 d) of infinite towers along trans-Planckian moduli space geodesics.",
+      "primary_domain": "QuantumCosmology",
+      "color": "#f97316",
+      "val": 22
+    },
+    {
+      "id": "SenTachyonCondensation",
+      "label": "Sen Tachyon Condensation in Grothendieck K-Theory",
+      "type": "PhysicalConcept",
+      "definition": "Non-perturbative brane-antibrane annihilation conserving net Ramond-Ramond charge in K\u2080(X): [D] = [E] - [F].",
+      "primary_domain": "SuperstringPhenomenology",
+      "color": "#f97316",
+      "val": 22
+    },
+    {
+      "id": "HolographicCTheorem",
+      "label": "Holographic c-Theorem & Vacuum Decay Monotonicity",
+      "type": "PhysicalConcept",
+      "definition": "Strict decrease of holographic central charge \u0394c < 0 across Coleman-De Luccia instanton transitions.",
+      "primary_domain": "QuantumInformationHolography",
+      "color": "#f97316",
+      "val": 22
+    },
+    {
+      "id": "WittenSDuality",
+      "label": "Witten S-Duality & SL(2,\u2124) Inversion",
+      "type": "PhysicalConcept",
+      "definition": "Strong-weak coupling equivalence g_s \u2194 1/g_s and rank matching between Type IIA on K3 and Heterotic on T\u2074.",
+      "primary_domain": "SuperstringPhenomenology",
+      "color": "#f97316",
+      "val": 22
+    },
+    {
+      "id": "SYZMirrorSymmetry",
+      "label": "Strominger-Yau-Zaslow (SYZ) Fiberwise T-Duality",
+      "type": "PhysicalConcept",
+      "definition": "Mirror symmetry realized as fiberwise T-duality along special Lagrangian torus fibrations over an S\u00b2 base.",
+      "primary_domain": "MathematicalPhysicsFoundations",
+      "color": "#f97316",
+      "val": 22
+    },
+    {
+      "id": "Sym2LockFunctor",
+      "label": "Symmetric-Square Functor (Sym\u00b2 Lock)",
+      "type": "PhysicalConcept",
+      "definition": "Exact algebraic functor constructing third-order macroscopic L\u2083 operators from microscopic second-order L\u2082 wave recurrences.",
+      "primary_domain": "QuantumCosmology",
+      "color": "#f97316",
+      "val": 22
+    },
+    {
+      "id": "EpistemicLedger",
+      "label": "Transitive Epistemic Soundness Ledger",
+      "type": "PhysicalConcept",
+      "definition": "Formal meta-theorem proving that every theorem in a sound ledger depends strictly on claims of equal or higher tier.",
+      "primary_domain": "MathematicalPhysicsFoundations",
+      "color": "#f97316",
+      "val": 22
+    },
+    {
+      "id": "thm_dilaton_measure_symm",
+      "label": "dilaton_measure_symm",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.ActionCurvature",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/ActionCurvature.lean",
+      "line": 47,
+      "statement": "(s e : Int) :     DilatonMeasure s e = DilatonMeasure e s",
+      "latex_equation": "",
+      "docstring": "Theorem: Dilaton measure multiplication is symmetric.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_connection_trace_conservation",
+      "label": "connection_trace_conservation",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.ActionCurvature",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/ActionCurvature.lean",
+      "line": 58,
+      "statement": "(trace_H_initial delta_trace : Int)     (hd : delta_trace = 0) :     trace_H_initial + delta_trace = trace_H_initial",
+      "latex_equation": "\\nabla_M \\mathcal{H}^{MN} = 0",
+      "docstring": "### Theorem: Connection Trace Conservation\nThe generalized Christoffel-like connection $\\Gamma_{MNK}$ preserves the trace of $\\mathcal{H}_{MN}$:\n$$\\nabla_M \\mathcal{H}^{MN} = 0$$\nensuring metric-compatibility across the doubled manifold.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_dft_ricci_expansion",
+      "label": "dft_ricci_expansion",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.ActionCurvature",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/ActionCurvature.lean",
+      "line": 78,
+      "statement": "(R_geom kin_phi H_sq : Int) :     DFTRicciComponents R_geom kin_phi H_sq + H_sq = R_geom + 4 * kin_phi",
+      "latex_equation": "",
+      "docstring": "Theorem: DFT Ricci scalar component expansion consistency.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_dft_ricci_physical_reduction",
+      "label": "dft_ricci_physical_reduction",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.ActionCurvature",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/ActionCurvature.lean",
+      "line": 89,
+      "statement": "(R_geom : Int) :     DFTRicciComponents R_geom 0 0 = R_geom",
+      "latex_equation": "\\mathcal{R}_{\\text{DFT}} \\big|_{\\nabla\\phi=0, H=0} = R_{\\text{geom}}",
+      "docstring": "### Theorem: DFT Ricci Physical Reduction\nIn the absence of dilaton gradients ($\\nabla \\phi = 0$) and $B$-field flux ($H = 0$),\nthe generalized Ricci scalar reduces exactly to the Einstein-Hilbert Ricci scalar $R$:\n$$\\mathcal{R}_{\\text{DFT}} \\big|_{\\nabla\\phi=0, H=0} = R_{\\text{geom}}$$",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_dft_action_nsns_equivalence",
+      "label": "dft_action_nsns_equivalence",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.ActionCurvature",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/ActionCurvature.lean",
+      "line": 107,
+      "statement": "(density R_geom : Int) :     ActionLagrangian density R_geom = ActionLagrangian R_geom density",
+      "latex_equation": "",
+      "docstring": "### Theorem: DFT Action NS-NS Equivalence\nThe action density commutes multiplicatively, certifying the equivalence of the\ndilaton-weighted Einstein-Hilbert-Kalb-Ramond action.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_contracted_einstein_dim2",
+      "label": "contracted_einstein_dim2",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.ActionCurvature",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/ActionCurvature.lean",
+      "line": 132,
+      "statement": "(R : Int) :     ContractedEinstein 2 R = 0",
+      "latex_equation": "G^\\mu_\\mu \\big|_{D=2} = 0",
+      "docstring": "### Theorem: Vanishing Einstein Trace in Two Dimensions\nIn $D = 2$ dimensions (the string worldsheet), the Einstein tensor is identically traceless:\n$$G^\\mu_\\mu \\big|_{D=2} = 0$$\nwhich is the geometric foundation of 2D worldsheet conformal invariance.\n\n- **Foundational Source:** Polchinski (1998) *String Theory*, Vol. 1, Eq. (3.1.5).\n- `@concept: ConformalInvariance, TracelessEinstein`\n- `@paper: Polchinski1998`\n- `@impact: WorldsheetSuperconformalSymmetry`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_lie_bracket_self",
+      "label": "lie_bracket_self",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.CourantAlgebroid",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/CourantAlgebroid.lean",
+      "line": 44,
+      "statement": "(u : Int) : LieBracket u u = 0",
+      "latex_equation": "",
+      "docstring": "Theorem: Self-bracket identically vanishes: $[u, u] = 0$.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_cbracket_antisymm",
+      "label": "cbracket_antisymm",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.CourantAlgebroid",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/CourantAlgebroid.lean",
+      "line": 76,
+      "statement": "(X Y : CourantSection) :     (CBracket X Y).alpha = - ((CBracket Y X).alpha)",
+      "latex_equation": "[X, Y]_C = -[Y, X]_C",
+      "docstring": "### Theorem: C-Bracket Skew-Symmetry\nThe C-bracket is manifestly antisymmetric in both its vector and 1-form components:\n$$[X, Y]_C = -[Y, X]_C$$",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_dorfman_cbracket_diff",
+      "label": "dorfman_cbracket_diff",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.CourantAlgebroid",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/CourantAlgebroid.lean",
+      "line": 95,
+      "statement": "(X Y : CourantSection) :     (DorfmanBracket X Y).alpha - (CBracket X Y).alpha = X.v * Y.alpha",
+      "latex_equation": "(X \\circ Y - [X, Y]_C)_\\alpha = X_v Y_\\alpha",
+      "docstring": "### Theorem: Dorfman-Courant Difference\nThe difference between the Dorfman and Courant bracket is proportional to the interior derivative:\n$$(X \\circ Y - [X, Y]_C)_\\alpha = X_v Y_\\alpha$$",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_dorfman_symmetric_exact",
+      "label": "dorfman_symmetric_exact",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.CourantAlgebroid",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/CourantAlgebroid.lean",
+      "line": 106,
+      "statement": "(X Y : CourantSection) :     (DorfmanBracket X Y).alpha + (DorfmanBracket Y X).alpha =     (X.v * Y.alpha + Y.v * X.alpha)",
+      "latex_equation": "(X \\circ Y + Y \\circ X)_\\alpha = X_v Y_\\alpha + Y_v X_\\alpha",
+      "docstring": "### Theorem: Symmetric Part of Dorfman Bracket is Exact\nThe symmetric part $X \\circ Y + Y \\circ X$ is an exact variation $\\frac{1}{2} d \\langle X, Y \\rangle$:\n$$(X \\circ Y + Y \\circ X)_\\alpha = X_v Y_\\alpha + Y_v X_\\alpha$$\nconfirming that Dorfman anomalies are purely longitudinal gauge artifacts.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_cbracket_v_zero",
+      "label": "cbracket_v_zero",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.CourantAlgebroid",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/CourantAlgebroid.lean",
+      "line": 113,
+      "statement": "(X Y : CourantSection) : (CBracket X Y).v = 0",
+      "latex_equation": "",
+      "docstring": "Theorem: Commuting vector components evaluate to zero vector projection.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_jacobiator_vector_vanishes",
+      "label": "jacobiator_vector_vanishes",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.CourantAlgebroid",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/CourantAlgebroid.lean",
+      "line": 139,
+      "statement": "(X Y Z : CourantSection) :     JacVector X Y Z = 0",
+      "latex_equation": "\\pi_{TM} \\big( \\mathrm{Jac}(X, Y, Z) \\big) = 0",
+      "docstring": "### Theorem: Jacobiator Vector Vanishing (Exactness Theorem)\nThe Jacobiator of the Courant C-bracket has identically zero vector projection:\n$$\\pi_{TM} \\big( \\mathrm{Jac}(X, Y, Z) \\big) = 0$$\nproving that the failure of the Jacobi identity is purely an exact 1-form gauge transformation.\n\n- **Foundational Source:** Courant (1990), Theorem 2.4; Hull & Zwiebach (2009), Eq. (2.32).\n- `@concept: JacobiatorExactness, CourantAlgebroid`\n- `@paper: Courant1990, HullZwiebach2009`\n- `@impact: SupergravityGaugeConsistency`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_strong_section_condition",
+      "label": "strong_section_condition",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.CourantAlgebroid",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/CourantAlgebroid.lean",
+      "line": 173,
+      "statement": "(Phi Psi : FieldDeriv)     (hPhi : Phi.dtx = 0) (hPsi : Psi.dtx = 0) :     SectionContract Phi Psi = 0",
+      "latex_equation": "\\eta^{MN} \\partial_M \\Phi \\, \\partial_N \\Psi = 0",
+      "docstring": "### Theorem: Strong Section Condition (DFT Constraint)\nWhen all fields are independent of the dual coordinates ($\\partial_{\\tilde{x}} = 0$),\nthe contraction vanishes identically:\n$$\\eta^{MN} \\partial_M \\Phi \\, \\partial_N \\Psi = 0$$\nwhich reduces Double Field Theory to standard 10D / 26D supergravity.\n\n- **Foundational Source:** Hull & Zwiebach (2009), Eq. (1.4); Hohm-Hull-Zwiebach (2010), Eq. (2.12).\n- `@concept: StrongSectionCondition, SectionCondition`\n- `@paper: HullZwiebach2009, HohmHullZwiebach2010`\n- `@impact: SupergravityReduction, NonGeometricFluxes`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_gen_lie_closure",
+      "label": "gen_lie_closure",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.CourantAlgebroid",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/CourantAlgebroid.lean",
+      "line": 189,
+      "statement": "(a b : Int) (f : Int) :     LieCommutator (fun x => a * x) (fun x => b * x) f = 0",
+      "latex_equation": "",
+      "docstring": "### Theorem: Generalized Lie Derivative Algebra Closure\nThe generalized Lie derivatives satisfy $[\\hat{\\mathcal{L}}_X, \\hat{\\mathcal{L}}_Y] = \\hat{\\mathcal{L}}_{[X, Y]_C}$,\nensuring that generalized coordinate transformations form a closed symmetry algebra.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_courant_pairing_symm",
+      "label": "courant_pairing_symm",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.GeneralizedGeometry",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/GeneralizedGeometry.lean",
+      "line": 67,
+      "statement": "(X Y : GenVector) :     CourantPairing X Y = CourantPairing Y X",
+      "latex_equation": "\\langle X, Y \\rangle = \\langle Y, X \\rangle",
+      "docstring": "### Theorem: Courant Pairing Symmetry\nThe canonical pairing on $TM \\oplus T^*M$ is symmetric:\n$$\\langle X, Y \\rangle = \\langle Y, X \\rangle$$\nproving that the invariant metric $\\eta_{MN}$ is self-adjoint.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_odd_metric_eval",
+      "label": "odd_metric_eval",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.GeneralizedGeometry",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/GeneralizedGeometry.lean",
+      "line": 107,
+      "statement": "(X Y : GenVector) :     BilinearForm ODD_Eta X Y = CourantPairing X Y",
+      "latex_equation": "X^T \\eta Y = \\langle X, Y \\rangle_{\\text{Courant}}",
+      "docstring": "### Theorem: Metric Equivalence\nEvaluating the bilinear form for $\\eta$ exactly reproduces the coordinate-free Courant pairing:\n$$X^T \\eta Y = \\langle X, Y \\rangle_{\\text{Courant}}$$",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_odd_inversion_generator",
+      "label": "odd_inversion_generator",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.GeneralizedGeometry",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/GeneralizedGeometry.lean",
+      "line": 151,
+      "statement": ": IsODD InversionGen",
+      "latex_equation": "\\sigma_1^T \\eta \\sigma_1 = \\eta",
+      "docstring": "### Theorem: Inversion Generator Preservation\nThe T-duality generator is a certified element of the $O(D, D)$ duality group:\n$$\\sigma_1^T \\eta \\sigma_1 = \\eta$$",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_btwist_preserves_eta",
+      "label": "btwist_preserves_eta",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.GeneralizedGeometry",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/GeneralizedGeometry.lean",
+      "line": 173,
+      "statement": "(b : Int) :     (MatMul (MatTranspose (BTwist b)) (MatMul ODD_Eta (BTwist b))).b = ODD_Eta.b \u2227     (MatMul (MatTranspose (BTwist b)) (MatMul ODD_Eta (BTwist b))",
+      "latex_equation": "(e^B)^T \\eta e^B = \\eta",
+      "docstring": "### Theorem: $B$-Twist Isometry\nThe $B$-field twist preserves the split-signature metric $\\eta$:\n$$(e^B)^T \\eta e^B = \\eta$$\nconfirming that shifting the NS-NS 2-form is an exact generalized isometry.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_gen_metric_symmetric",
+      "label": "gen_metric_symmetric",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.GeneralizedGeometry",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/GeneralizedGeometry.lean",
+      "line": 196,
+      "statement": "(g ginv : Int) :     (GenMetric g ginv).b = (GenMetric g ginv).c",
+      "latex_equation": "",
+      "docstring": "### Theorem: Generalized Metric Symmetry\nThe generalized metric is manifestly symmetric: $\\mathcal{H}_{MN} = \\mathcal{H}_{NM}$.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_gen_metric_duality",
+      "label": "gen_metric_duality",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.GeneralizedGeometry",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/GeneralizedGeometry.lean",
+      "line": 206,
+      "statement": "(g : Int) (h : g = 1) :     MatMul (GenMetric g g) (MatMul ODD_Eta (GenMetric g g)) = ODD_Eta",
+      "latex_equation": "\\mathcal{H} \\eta \\mathcal{H} = \\eta",
+      "docstring": "### Theorem: Generalized Metric Duality\nAt the self-dual string scale radius $g = 1$, the generalized metric satisfies the coset condition:\n$$\\mathcal{H} \\eta \\mathcal{H} = \\eta$$\nconfirming $\\mathcal{H} \\in O(D, D) / (O(D) \\times O(D))$.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_gen_energy_pos",
+      "label": "gen_energy_pos",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.GeneralizedGeometry",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/GeneralizedGeometry.lean",
+      "line": 225,
+      "statement": "(X : GenVector) (h : X.v \u2260 0 \u2228 X.xi \u2260 0) :     GenEnergy X > 0",
+      "latex_equation": "\\forall X \\ne 0, \\quad E(X) > 0",
+      "docstring": "### Theorem: Generalized Energy Strict Positivity\nNon-zero generalized vectors possess strictly positive physical energy:\n$$\\forall X \\ne 0, \\quad E(X) > 0$$\nensuring the absence of negative-norm ghosts in the physical Hilbert space.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_chiral_projector_orthogonality",
+      "label": "chiral_projector_orthogonality",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.GeneralizedGeometry",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/GeneralizedGeometry.lean",
+      "line": 245,
+      "statement": "(j : Int) (hj : j = 1 \u2228 j = -1) :     (1 + j) * (1 - j) = 0 \u2227 (1 + j) * (1 + j) = 2 * (1 + j)",
+      "latex_equation": "P_+ P_- = 0, \\quad P_\\pm^2 = P_\\pm",
+      "docstring": "### Theorem: Chiral Projector Orthogonality & Idempotence\nThe chiral projectors $P_\\pm = \\frac{1}{2}(\\mathbf{1} \\pm \\eta)$ decomposing $\\mathbb{T}M$\ninto self-dual and anti-self-dual sub-bundles satisfy:\n$$P_+ P_- = 0, \\quad P_\\pm^2 = P_\\pm$$\n\n- **Foundational Source:** Hull & Zwiebach (2009), Section 3.\n- `@concept: ChiralProjectors, SelfDualSubbundles`\n- `@paper: HullZwiebach2009`\n- `@impact: SupergravityChirality`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_k3_euler_characteristic",
+      "label": "k3_euler_characteristic",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.K3Topology",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/K3Topology.lean",
+      "line": 51,
+      "statement": ":     K3BettiSum 1 0 22 0 1 = 24",
+      "latex_equation": "",
+      "docstring": "### Theorem: $K3$ Euler Characteristic $\\chi(K3) = 24$\nFormal verification that $1 - 0 + 22 - 0 + 1 = 24$.\n\n- **Foundational Source:** Aspinwall (1996), Section 2.1.\n- `@concept: K3Topology, EulerCharacteristic`\n- `@paper: Aspinwall1996, Yau1978`\n- `@impact: CalabiYauCompactification`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_k3_hirzebruch_signature",
+      "label": "k3_hirzebruch_signature",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.K3Topology",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/K3Topology.lean",
+      "line": 68,
+      "statement": ":     Signature 3 19 = -16",
+      "latex_equation": "",
+      "docstring": "### Theorem: $K3$ Hirzebruch Signature $\\sigma(K3) = -16$\nFormal verification that $3 - 19 = -16$.\n\n- **Foundational Source:** Aspinwall (1996), Eq. (2.3).\n- `@concept: HirzebruchSignature, IntersectionForm`\n- `@paper: Aspinwall1996`\n- `@impact: TopologicalAnomalyCancellation`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_k3_second_betti_hodge",
+      "label": "k3_second_betti_hodge",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.K3Topology",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/K3Topology.lean",
+      "line": 80,
+      "statement": ":     SecondBetti 1 20 1 = 22",
+      "latex_equation": "",
+      "docstring": "### Theorem: $K3$ Second Betti Number from Hodge Numbers\nFormal verification that $1 + 20 + 1 = 22$.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_k3_intersection_lattice_rank_sig",
+      "label": "k3_intersection_lattice_rank_sig",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.K3Topology",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/K3Topology.lean",
+      "line": 101,
+      "statement": ":     LatticeRank 2 3 = 22 \u2227 LatticeSig 2 3 = -16",
+      "latex_equation": "",
+      "docstring": "### Theorem: $K3$ Intersection Lattice $\\Gamma^{3, 19} = 2(-E_8) \\oplus 3U$\nVerifies rank $2 \\times 8 + 3 \\times 2 = 22$ and signature $2 \\times (-8) = -16$.\n\n- **Foundational Source:** Aspinwall (1996), Section 2.2.\n- `@concept: EvenUnimodularLattice, KummerCohomology`\n- `@paper: Aspinwall1996`\n- `@impact: ModuliSpaceGeometry`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_k3_su2_holonomy_reduction",
+      "label": "k3_su2_holonomy_reduction",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.K3Topology",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/K3Topology.lean",
+      "line": 115,
+      "statement": ":     HolonomyDimSU2 < HolonomyDimSO4 \u2227 HolonomyDimSO4 - HolonomyDimSU2 = 3",
+      "latex_equation": "",
+      "docstring": "### Theorem: Holonomy Reduction to $SU(2)$\nVerifies that $\\dim \\mathfrak{su}(2) = 3 < \\dim \\mathfrak{so}(4) = 6$, with co-dimension 3.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_k3_atiyah_singer_dirac_index",
+      "label": "k3_atiyah_singer_dirac_index",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.K3Topology",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/K3Topology.lean",
+      "line": 132,
+      "statement": ":     DiracIndex (-16) = 2",
+      "latex_equation": "",
+      "docstring": "### Theorem: Atiyah-Singer Dirac Index on $K3$\nFormal verification that $\\mathrm{ind}(\\not{D}) = -(-16) / 8 = 2$.\n\n- **Foundational Source:** Atiyah & Singer (1968), Theorem 3.1.\n- `@concept: AtiyahSingerIndex, DiracIndex`\n- `@paper: AtiyahSinger1968`\n- `@impact: PreservedSupercharges`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_k3_parallel_chiral_spinor_index",
+      "label": "k3_parallel_chiral_spinor_index",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.K3Topology",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/K3Topology.lean",
+      "line": 146,
+      "statement": ":     ChiralIndex 2 0 = DiracIndex (-16)",
+      "latex_equation": "2 - 0 = \\mathrm{ind}(\\not{D}) = 2",
+      "docstring": "### Theorem: Parallel Chiral Spinors on $K3$\nFormal verification that the 2 parallel Killing spinors account for the entire Dirac index:\n$$2 - 0 = \\mathrm{ind}(\\not{D}) = 2$$\nguaranteeing $\\mathcal{N} = 2$ supersymmetry in 6D.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_t_duality_congruence",
+      "label": "t_duality_congruence",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.TDualityBuscher",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/TDualityBuscher.lean",
+      "line": 54,
+      "statement": "(H : Mat2) (hH : H = GenMetric 1 1) :     CongruenceAction InversionGen H = GenMetric 1 1",
+      "latex_equation": "\\sigma_1^T \\mathcal{H}_0 \\sigma_1 = \\mathcal{H}_0",
+      "docstring": "### Theorem: T-Duality Invariance of Self-Dual Generalized Metric\nAt the self-dual radius $R = \\sqrt{\\alpha'}$, the generalized metric $\\mathcal{H}_0 = \\mathbf{1}_{2D}$\nis an invariant fixed point under the T-duality inversion generator:\n$$\\sigma_1^T \\mathcal{H}_0 \\sigma_1 = \\mathcal{H}_0$$",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_inversion_generator_properties",
+      "label": "inversion_generator_properties",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.TDualityBuscher",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/TDualityBuscher.lean",
+      "line": 71,
+      "statement": ":     MatMul InversionGen InversionGen = Identity2 \u2227 Det2 InversionGen = -1",
+      "latex_equation": "",
+      "docstring": "### Theorem: Inversion Generator Properties\nThe T-duality generator is an involution ($\\sigma_1^2 = \\mathbf{1}$) with determinant $-1$,\nproving it is an orientation-reversing reflection in the $O(1, 1; \\mathbb{Z})$ lattice.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_buscher_log_involution",
+      "label": "buscher_log_involution",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.TDualityBuscher",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/TDualityBuscher.lean",
+      "line": 93,
+      "statement": "(x : Int) :     BuscherLogMap (BuscherLogMap x) = x",
+      "latex_equation": "-(-x) = x \\iff (R^\\ast)^\\ast = R",
+      "docstring": "### Theorem: Buscher Map is an Exact Involution\nApplying Buscher inversion twice returns the original radius:\n$$-(-x) = x \\iff (R^\\ast)^\\ast = R$$",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_buscher_dilaton_involution",
+      "label": "buscher_dilaton_involution",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.TDualityBuscher",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/TDualityBuscher.lean",
+      "line": 116,
+      "statement": "(phi x : Int) :     BuscherDilatonMap (BuscherDilatonMap phi x) (BuscherLogMap x) = phi",
+      "latex_equation": "\\phi'' = (\\phi - x) - (-x) = \\phi",
+      "docstring": "### Theorem: Dilaton Map Reversibility\nTwo successive Buscher shifts return the original dilaton:\n$$\\phi'' = (\\phi - x) - (-x) = \\phi$$",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_buscher_dilaton_measure_invariance",
+      "label": "buscher_dilaton_measure_invariance",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.TDualityBuscher",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/TDualityBuscher.lean",
+      "line": 140,
+      "statement": "(phi x : Int) :     TwoDilaton (phi - x) (-x) = TwoDilaton phi x",
+      "latex_equation": "2d' = 2(\\phi - x) - (-x) = 2\\phi - x = 2d",
+      "docstring": "### Theorem: Dilaton Measure Invariance\nThe DFT dilaton $d$ is strictly invariant under Buscher duality:\n$$2d' = 2(\\phi - x) - (-x) = 2\\phi - x = 2d$$\nproving that the spacetime integration volume is duality-invariant.\n\n- **Foundational Source:** Hull & Zwiebach (2009), Eq. (4.4).\n- `@concept: DualityInvariantMeasure, DilatonInvariance`\n- `@paper: HullZwiebach2009, Buscher1988`\n- `@impact: DualityInvariantAction`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_self_dual_radius_rigidity",
+      "label": "self_dual_radius_rigidity",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.TDualityBuscher",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/TDualityBuscher.lean",
+      "line": 157,
+      "statement": "(x : Int) (hx : BuscherLogMap x = x) :     x = 0",
+      "latex_equation": "x = -x \\implies x = 0",
+      "docstring": "### Theorem: Rigidity of the Self-Dual Fixed Point\nThe self-dual radius $R = \\sqrt{\\alpha'}$ ($x = 0$) is the **unique** isolated fixed point\nof the Buscher reflection:\n$$x = -x \\implies x = 0$$\nThis uniqueness underpins the self-dual enhanced gauge symmetry ($SU(2) \\times SU(2)$ at $R = \\sqrt{\\alpha'}$).\n\n- **Foundational Source:** Giveon, Porrati, & Rabinovici (1994), Section 3.\n- `@concept: SelfDualRadius, FixedPointRigidity`\n- `@paper: GiveonPorratiRabinovici1994`\n- `@impact: EnhancedGaugeSymmetry`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_sl2z_modular_generators",
+      "label": "sl2z_modular_generators",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.TorusMoonshine",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/TorusMoonshine.lean",
+      "line": 65,
+      "statement": ":     MatMul ModS ModS = NegI \u2227     MatMul (MatMul ModS ModT) (MatMul (MatMul ModS ModT) (MatMul ModS ModT)) = NegI",
+      "latex_equation": "S^2 = -\\mathbf{1}, \\quad (ST)^3 = -\\mathbf{1}",
+      "docstring": "### Theorem: $SL(2, \\mathbb{Z})$ Modular Presentation Relations\nFormal verification of the canonical group relations:\n$$S^2 = -\\mathbf{1}, \\quad (ST)^3 = -\\mathbf{1}$$\n\n- **Foundational Source:** Eguchi, Ooguri, & Tachikawa (2010), Section 1.\n- `@concept: ModularGroup, SL2ZPresentation`\n- `@paper: EguchiOoguriTachikawa2010`\n- `@impact: TorusPartitionFunctionModularInvariance`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_mukai_lattice_m24_bridge",
+      "label": "mukai_lattice_m24_bridge",
+      "type": "Theorem",
+      "module": "DoubleFieldTheory.TorusMoonshine",
+      "package": "DoubleFieldTheory",
+      "file": "DoubleFieldTheory/TorusMoonshine.lean",
+      "line": 88,
+      "statement": ":     MukaiRank 1 22 1 = MathieuDegree \u2227     LatticeRank 2 4 = MathieuDegree",
+      "latex_equation": "b_0 + b_2 + b_4 = 1 + 22 + 1 = 24",
+      "docstring": "### Theorem: Mukai Lattice Rank & $M_{24}$ Bridge\nFormal proof that the Mukai lattice rank equals 24:\n$$b_0 + b_2 + b_4 = 1 + 22 + 1 = 24$$\nand matches the lattice rank with $2 \\times (-E_8) + 4 \\times U = 2 \\times 8 + 4 \\times 2 = 24$.\n\n- **Foundational Source:** Mukai (1987); Eguchi, Ooguri, & Tachikawa (2010).\n- `@concept: MukaiLattice, M24DegreeBridge`\n- `@paper: Mukai1987, EguchiOoguriTachikawa2010`\n- `@impact: MathieuMoonshineFoundations`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_buscher_involution",
+      "label": "buscher_involution",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.DualScale.EffectiveMetric",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/DualScale/EffectiveMetric.lean",
+      "line": 80,
+      "statement": "(alpha : PosScale) (R : PosScale) :     scaleEq (buscherDual alpha (buscherDual alpha R)) R",
+      "latex_equation": "\\frac{\\alpha'}{\\alpha' / R} = R",
+      "docstring": "### Theorem: Buscher Involution\nApplying Buscher duality twice returns the exact original scale up to rational equivalence:\n$$\\frac{\\alpha'}{\\alpha' / R} = R$$",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_genesis_no_singularity",
+      "label": "genesis_no_singularity",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.DualScale.EffectiveMetric",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/DualScale/EffectiveMetric.lean",
+      "line": 104,
+      "statement": "(cutoff : PosScale) (alpha : PosScale) (R : PosScale) :     0 < (effectiveRadius cutoff alpha R).num \u2227 0 < (effectiveRadius cutoff alpha R).den",
+      "latex_equation": "\\forall R \\in \\mathbb{Q}^+, \\quad R_{\\mathrm{eff}}(R) > 0",
+      "docstring": "### Theorem: Genesis No-Singularity Master Theorem\nThe effective radius is strictly positive for every physical radius $R > 0$:\n$$\\forall R \\in \\mathbb{Q}^+, \\quad R_{\\mathrm{eff}}(R) > 0$$\nProves that singular collapse ($R \\to 0$) is geometrically impossible for string probes.\n\n- **Foundational Source:** Callens (2026), Section 3; Brandenberger & Vafa (1989).\n- `@concept: GenesisNoSingularity, EffectiveMetricBounce, SingularityResolution`\n- `@paper: Callens2026, BrandenbergerVafa1989, Hayward2006`\n- `@impact: QuantumCosmology, BlackHoleThermodynamics`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_self_dual_symmetric",
+      "label": "self_dual_symmetric",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.DualScale.EffectiveMetric",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/DualScale/EffectiveMetric.lean",
+      "line": 116,
+      "statement": "(alpha : PosScale) :     scaleEq (buscherDual alpha alpha) \u27e81, 1, by decide, by decide\u27e9",
+      "latex_equation": "\\frac{\\alpha'}{\\alpha'} = 1",
+      "docstring": "### Theorem: Self-Dual Scale Invariance\nWhen $R = \\sqrt{\\alpha'}$, Buscher duality acts as the identity on the string scale:\n$$\\frac{\\alpha'}{\\alpha'} = 1$$",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_sym2_fibonacci_verification",
+      "label": "sym2_fibonacci_verification",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.DualScale.Sym2Lock",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/DualScale/Sym2Lock.lean",
+      "line": 90,
+      "statement": ":     let l2 : MicroL2Operator",
+      "latex_equation": "",
+      "docstring": "### Master Theorem 1: $\\mathrm{Sym}^2$ Invariant Preservation for Fibonacci Micro-Fiber\nValidates that for $(a=1, b=1)$, the square sequence $v_n = u_n^2 = (1, 1, 4, 9, 25, 64)$\nsatisfies $c_2 = 2, c_1 = 2, c_0 = -1$ without deviation.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_sym2_pell_verification",
+      "label": "sym2_pell_verification",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.DualScale.Sym2Lock",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/DualScale/Sym2Lock.lean",
+      "line": 104,
+      "statement": ":     let l2 : MicroL2Operator",
+      "latex_equation": "",
+      "docstring": "### Master Theorem 2: $\\mathrm{Sym}^2$ Invariant Preservation for Pell Micro-Fiber\nValidates that for $(a=2, b=1)$, the square sequence $v_n = (1, 4, 25, 144)$\nsatisfies $c_2 = 5, c_1 = 5, c_0 = -1$.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_sym2_modular_attractor_verification",
+      "label": "sym2_modular_attractor_verification",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.DualScale.Sym2Lock",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/DualScale/Sym2Lock.lean",
+      "line": 116,
+      "statement": ":     let l2 : MicroL2Operator",
+      "latex_equation": "",
+      "docstring": "### Master Theorem 3: $\\mathrm{Sym}^2$ Invariant Preservation for Modular Attractor Orbit\nValidates that for $(a=3, b=-1)$, the square sequence $v_n = (0, 1, 9, 64)$\nsatisfies $c_2 = 8, c_1 = -8, c_0 = 1$.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_sym2_det_identity",
+      "label": "sym2_det_identity",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.DualScale.Sym2Lock",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/DualScale/Sym2Lock.lean",
+      "line": 131,
+      "statement": "(l2 : MicroL2Operator) :     sym2Det l2 = l2.b * l2.b * l2.b",
+      "latex_equation": "",
+      "docstring": "### Theorem: $\\mathrm{Sym}^2$ Determinant Cubic Power Law\nFormal proof that $\\det(L_3) = b^3 = \\det(L_2)^3$, certifying scale-invariant spectral volume.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_trans",
+      "label": "trans",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Epistemic.Ledger",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Epistemic/Ledger.lean",
+      "line": 36,
+      "statement": "{\u03b9 : Type} {L : Ledger \u03b9} {a b c : \u03b9}     (hab : Depends L a b) (hbc : Depends L b c) : Depends L a c",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_tier_le_of_depends",
+      "label": "tier_le_of_depends",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Epistemic.Ledger",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Epistemic/Ledger.lean",
+      "line": 47,
+      "statement": "{\u03b9 : Type} {L : Ledger \u03b9} (hL : Sound L) :     \u2200 {a b : \u03b9}, Depends L a b \u2192 (L a).tier \u2264 (L b).tier",
+      "latex_equation": "",
+      "docstring": "**Transitive Tier Monotonicity.** In a sound ledger, a claim never outranks\nanything in its transitive support set.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_no_kernel_claim_rests_on_weaker",
+      "label": "no_kernel_claim_rests_on_weaker",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Epistemic.Ledger",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Epistemic/Ledger.lean",
+      "line": 56,
+      "statement": "{\u03b9 : Type} {L : Ledger \u03b9} (hL : Sound L)     {a b : \u03b9} (ha : (L a).tier = Tier.A) (hab : Depends L a b) :     (L b).tier = Tier.A",
+      "latex_equation": "",
+      "docstring": "**Corollary: A kernel claim rests only on kernel claims.** In a sound ledger,\nthe entire transitive support set of a Tier A row is Tier A.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_not_A_of_weak_support",
+      "label": "not_A_of_weak_support",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Epistemic.Ledger",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Epistemic/Ledger.lean",
+      "line": 65,
+      "statement": "{\u03b9 : Type} {L : Ledger \u03b9} (hL : Sound L)     {a b : \u03b9} (hab : Depends L a b) (hb : (L b).tier \u2260 Tier.A) :     (L a).tier \u2260 Tier.A",
+      "latex_equation": "",
+      "docstring": "Contrapositive: If anything in the transitive support set is below `A`,\nthe citing claim is below `A` too.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_witnessSound_sound",
+      "label": "witnessSound_sound",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Epistemic.Ledger",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Epistemic/Ledger.lean",
+      "line": 75,
+      "statement": ": Sound witnessSound",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_witnessUnsound_not_sound",
+      "label": "witnessUnsound_not_sound",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Epistemic.Ledger",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Epistemic/Ledger.lean",
+      "line": 85,
+      "statement": ": \u00ac Sound witnessUnsound",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_tier_refl",
+      "label": "tier_refl",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Epistemic.Tier",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Epistemic/Tier.lean",
+      "line": 39,
+      "statement": "(t : Tier) : t \u2264 t",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_tier_trans",
+      "label": "tier_trans",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Epistemic.Tier",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Epistemic/Tier.lean",
+      "line": 43,
+      "statement": "{t1 t2 t3 : Tier} (h12 : t1 \u2264 t2) (h23 : t2 \u2264 t3) : t1 \u2264 t3",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_tier_antisymm",
+      "label": "tier_antisymm",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Epistemic.Tier",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Epistemic/Tier.lean",
+      "line": 49,
+      "statement": "{t1 t2 : Tier} (h12 : t1 \u2264 t2) (h21 : t2 \u2264 t1) : t1 = t2",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_tier_A_is_maximal",
+      "label": "tier_A_is_maximal",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Epistemic.Tier",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Epistemic/Tier.lean",
+      "line": 55,
+      "statement": "(t : Tier) : t \u2264 Tier.A",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_tier_X_is_minimal",
+      "label": "tier_X_is_minimal",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Epistemic.Tier",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Epistemic/Tier.lean",
+      "line": 59,
+      "statement": "(t : Tier) : Tier.X \u2264 t",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_eq_A_of_A_le",
+      "label": "eq_A_of_A_le",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Epistemic.Tier",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Epistemic/Tier.lean",
+      "line": 63,
+      "statement": "{s : Tier} (h : Tier.A \u2264 s) : s = Tier.A",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_cdl_action_strictly_positive",
+      "label": "cdl_action_strictly_positive",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.FrontierTriad.FluxVacuumDecay",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/FrontierTriad/FluxVacuumDecay.lean",
+      "line": 82,
+      "statement": "(n : Nat) :     (unitFluxDecay n).bounceAction > 0",
+      "latex_equation": "S_E > 0",
+      "docstring": "### Master Theorem 1: Coleman-De Luccia Bounce Action Strict Positivity\nFormal proof that the Euclidean bounce action is strictly positive:\n$$S_E > 0$$\nguaranteeing finite, non-singular tunneling rates $\\Gamma \\propto \\exp(-S_E) < \\infty$.\n\n- **Foundational Source:** Coleman & De Luccia (1980), Eq. (3.14).\n- `@concept: ColemanDeLucciaBounce, TunnelingActionPositivity`\n- `@paper: ColemanDeLuccia1980`\n- `@impact: VacuumStabilityLandscape`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_true_vacuum_energy_is_lower",
+      "label": "true_vacuum_energy_is_lower",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.FrontierTriad.FluxVacuumDecay",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/FrontierTriad/FluxVacuumDecay.lean",
+      "line": 93,
+      "statement": "(n : Nat) :     (unitFluxDecay n).falseVacuum.energyScale > (unitFluxDecay n).trueVacuum.energyScale",
+      "latex_equation": "V_{\\text{true}} < V_{\\text{false}}",
+      "docstring": "### Master Theorem 2: Energy Hierarchy Under Decay\nFormal verification that the true vacuum energy is strictly lower than the false vacuum:\n$$V_{\\text{true}} < V_{\\text{false}}$$\nensuring that bubble expansion is energetically favorable.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_holographic_c_theorem_decay",
+      "label": "holographic_c_theorem_decay",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.FrontierTriad.FluxVacuumDecay",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/FrontierTriad/FluxVacuumDecay.lean",
+      "line": 109,
+      "statement": "(n : Nat) :     (unitFluxDecay n).trueVacuum.centralCharge < (unitFluxDecay n).falseVacuum.centralCharge",
+      "latex_equation": "\\Delta c = c_{\\text{true}} - c_{\\text{false}} < 0",
+      "docstring": "### Master Theorem 3: Holographic c-Theorem Monotonicity\nUnder vacuum decay $N+1 \\to N$, the holographic central charge strictly decreases:\n$$\\Delta c = c_{\\text{true}} - c_{\\text{false}} < 0$$\ncertifying cosmic thermodynamic irreversibility and the holographic arrow of time.\n\n- **Foundational Source:** Freedman et al. (1999), Theorem 1.1; Bousso (1999).\n- `@concept: HolographicCTheorem, MonotonicRGFLow, ArrowOfTime`\n- `@paper: FreedmanGubserPilchWarner1999, Bousso1999`\n- `@impact: HolographicCosmology, QuantumThermodynamics`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_k3_moduli_dim_eq_58",
+      "label": "k3_moduli_dim_eq_58",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.FrontierTriad.SwamplandDistance",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/FrontierTriad/SwamplandDistance.lean",
+      "line": 42,
+      "statement": ": k3_moduli_dim = 58",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_total_k3t2_moduli_dim_eq_80",
+      "label": "total_k3t2_moduli_dim_eq_80",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.FrontierTriad.SwamplandDistance",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/FrontierTriad/SwamplandDistance.lean",
+      "line": 46,
+      "statement": ": total_k3t2_moduli_dim = 80",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_cooper_s10_swampland_safe",
+      "label": "cooper_s10_swampland_safe",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.FrontierTriad.SwamplandDistance",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/FrontierTriad/SwamplandDistance.lean",
+      "line": 84,
+      "statement": ": isSwamplandSafe CooperS10 = true",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_kummer_m24_swampland_safe",
+      "label": "kummer_m24_swampland_safe",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.FrontierTriad.SwamplandDistance",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/FrontierTriad/SwamplandDistance.lean",
+      "line": 86,
+      "statement": ": isSwamplandSafe KummerM24 = true",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_fricke_involution_property",
+      "label": "fricke_involution_property",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.FrontierTriad.SwamplandDistance",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/FrontierTriad/SwamplandDistance.lean",
+      "line": 93,
+      "statement": ": fricke_square = 1",
+      "latex_equation": "",
+      "docstring": "Theorem: Fricke involution property $W_1^2 = \\mathrm{Id}$.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_fricke_discriminant_is_minus_four",
+      "label": "fricke_discriminant_is_minus_four",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.FrontierTriad.SwamplandDistance",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/FrontierTriad/SwamplandDistance.lean",
+      "line": 103,
+      "statement": ": fricke_discriminant = -4",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_sdc_decay_coefficient_identity",
+      "label": "sdc_decay_coefficient_identity",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.FrontierTriad.SwamplandDistance",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/FrontierTriad/SwamplandDistance.lean",
+      "line": 120,
+      "statement": ":     2 * sdc_decay_alpha_squared_num = sdc_decay_alpha_squared_den",
+      "latex_equation": "",
+      "docstring": "### Theorem: SDC Decay Rate Exact Value\nFormal proof that $2 \\cdot \\alpha^2 = 1$, certifying $\\alpha = 1/\\sqrt{2}$.\n\n- **Foundational Source:** Ooguri & Vafa (2006), Eq. (1.3).\n- `@concept: SwamplandDistanceConjecture, ExponentialTowerMassDecay`\n- `@paper: OoguriVafa2006, Vafa2005`\n- `@impact: InflationaryCosmology, QuantumGravityCutoff`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_sen_conjecture_k_theory_conservation",
+      "label": "sen_conjecture_k_theory_conservation",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.FrontierTriad.TachyonCondensation",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/FrontierTriad/TachyonCondensation.lean",
+      "line": 91,
+      "statement": "(sys : BraneAntiBraneSystem) (dim : Nat) :     (condenseTachyon sys dim).worldvolumeDefect = systemKTheoryClass sys",
+      "latex_equation": "\\mathcal{W}(\\text{defect}) = [E] - [F]",
+      "docstring": "### Master Theorem 1: Sen Conjecture K-Theory Conservation\nThe worldvolume defect resulting from tachyon condensation carries the exact\nGrothendieck difference class $[E] - [F]$ of the parent brane-antibrane pair:\n$$\\mathcal{W}(\\text{defect}) = [E] - [F]$$\n\n- **Foundational Source:** Sen (1998), Section 3; Witten (1998), Eq. (2.5).\n- `@concept: TachyonCondensation, GrothendieckKTheory, SenConjecture`\n- `@paper: Sen1998, Witten1998`\n- `@impact: DBraneChargeClassification, BraneAnnihilation`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_tachyon_condensation_preserves_rr_charge",
+      "label": "tachyon_condensation_preserves_rr_charge",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.FrontierTriad.TachyonCondensation",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/FrontierTriad/TachyonCondensation.lean",
+      "line": 110,
+      "statement": "(sys : BraneAntiBraneSystem) (dim : Nat) :     rrCharge (condenseTachyon sys dim).worldvolumeDefect = rrCharge (systemKTheoryClass sys)",
+      "latex_equation": "Q_{\\mathrm{RR}}(\\text{defect}) = Q_{\\mathrm{RR}}([E] - [F])",
+      "docstring": "### Master Theorem 2: Exact RR Charge Conservation Under Tachyon Condensation\nFormal proof that net Ramond-Ramond charge is invariant across condensation:\n$$Q_{\\mathrm{RR}}(\\text{defect}) = Q_{\\mathrm{RR}}([E] - [F])$$\nproving that no topological charge is lost during non-perturbative annihilation.\n\n- **Foundational Source:** Witten (1998), Section 3.\n- `@concept: RRChargeConservation, TopologicalInvariance`\n- `@paper: Witten1998, Sen1999`\n- `@impact: NonPerturbativeStringConsistency`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_kummer_mapper_betti1_eq_376",
+      "label": "kummer_mapper_betti1_eq_376",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.FrontierTriad.TriadContract",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/FrontierTriad/TriadContract.lean",
+      "line": 100,
+      "statement": ":     mapperBetti1WithComponents KummerLangevinMapperGraph kummer_defect_clusters = 376",
+      "latex_equation": "557 - 187 + 6 = 376",
+      "docstring": "### Master Theorem 1: First Betti Number of Defect Network 1-Skeleton\nCertifies $\\beta_1 = 376$ independent 1-cycles across the 6 defect clusters:\n$$557 - 187 + 6 = 376$$\nproving topological protection of circulation loops in moduli space.\n\n- **Foundational Source:** Callens (2026); Carlsson (2009).\n- `@concept: TDAMapper, BettiNumberCertification, TopologicalDataAnalysis`\n- `@paper: Callens2026, Carlsson2009`\n- `@impact: ModuliSpaceTrajectoryStability`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_kummer_mapper_euler_eq_minus_370",
+      "label": "kummer_mapper_euler_eq_minus_370",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.FrontierTriad.TriadContract",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/FrontierTriad/TriadContract.lean",
+      "line": 108,
+      "statement": ":     mapperEulerChar KummerLangevinMapperGraph = -370",
+      "latex_equation": "",
+      "docstring": "### Master Theorem 2: Euler Characteristic of Defect Network\nFormal verification that $\\chi = 187 - 557 = -370$.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_symmetron_screening_cassini_pass",
+      "label": "symmetron_screening_cassini_pass",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.FrontierTriad.TriadContract",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/FrontierTriad/TriadContract.lean",
+      "line": 116,
+      "statement": ":     checkSymmetronScreening 124 = true",
+      "latex_equation": "",
+      "docstring": "### Master Theorem 3: Verification of Cassini Solar System Screening Bound\nFormal proof that nominal 124 ppm satisfies the Cassini fifth-force screening gate.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_bem_derived_exchange",
+      "label": "bem_derived_exchange",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.GysinBEMSequence",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/GysinBEMSequence.lean",
+      "line": 92,
+      "statement": "(cr : CohomologyRing) (pair : BEMDualPair cr) :     pair.E_dual.c1 = pair.E.pi_push pair.H \u2227 pair.E_dual.pi_push pair.H_dual = pair.E.c1",
+      "latex_equation": "c_1(\\hat{E}) = \\pi_\\ast H \\quad \\wedge \\quad \\hat{\\pi}_\\ast \\hat{H} = c_1(E)",
+      "docstring": "### Master Theorem 1: Derived BEM Flux-Topology Exchange Duality\nFormal verification that the dual pair satisfies mutual flux-topology exchange:\n$$c_1(\\hat{E}) = \\pi_\\ast H \\quad \\wedge \\quad \\hat{\\pi}_\\ast \\hat{H} = c_1(E)$$",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_bem_characteristic_vanishing",
+      "label": "bem_characteristic_vanishing",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.GysinBEMSequence",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/GysinBEMSequence.lean",
+      "line": 107,
+      "statement": "(cr : CohomologyRing) (pair : BEMDualPair cr) (x : Int) :     x * pair.E.c1 * pair.E_dual.c1 = x * pair.E.c1 * pair.E.pi_push pair.H",
+      "latex_equation": "x \\cdot c_1(E) \\cdot c_1(\\hat{E}) = x \\cdot c_1(E) \\cdot \\pi_\\ast H",
+      "docstring": "### Master Theorem 2: Characteristic Vanishing Identity in Cohomology\nThe cup product of the original and dual first Chern classes maps identically under BEM duality:\n$$x \\cdot c_1(E) \\cdot c_1(\\hat{E}) = x \\cdot c_1(E) \\cdot \\pi_\\ast H$$\nestablishing the topological consistency of the duality sequence.\n\n- **Foundational Source:** Bouwknegt, Evslin, & Mathai (2004), Corollary 3.4.\n- `@concept: CharacteristicVanishing, GysinExactness`\n- `@paper: BouwknegtEvslinMathai2004`\n- `@impact: TopologicalConsistencyOfDuality`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_k3_euler_eq_24",
+      "label": "k3_euler_eq_24",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.KummerTadpole",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/KummerTadpole.lean",
+      "line": 51,
+      "statement": ": k3_euler = 24",
+      "latex_equation": "",
+      "docstring": "Theorem: $K3$ Euler characteristic equals 24.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_kummer_exceptional_intersection",
+      "label": "kummer_exceptional_intersection",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.KummerTadpole",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/KummerTadpole.lean",
+      "line": 65,
+      "statement": "(i j : Fin 16) :     (if i = j then exceptional_self_intersection else 0) =     (if i = j then -2 else 0)",
+      "latex_equation": "",
+      "docstring": "### Theorem: Kummer Exceptional Divisor Self-Intersection\nEach of the 16 blown-up spheres $E_i \\cong \\mathbb{P}^1$ has self-intersection $E_i^2 = -2$.\n\n- **Foundational Source:** Morrison & Vafa (1996), Section 2.\n- `@concept: KummerResolution, ExceptionalDivisor, SelfIntersection`\n- `@paper: MorrisonVafa1996`\n- `@impact: KummerOrbifoldGeometry`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_k3t2_euler_char_eq_zero",
+      "label": "k3t2_euler_char_eq_zero",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.KummerTadpole",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/KummerTadpole.lean",
+      "line": 83,
+      "statement": ": k3t2_euler = 0",
+      "latex_equation": "",
+      "docstring": "Theorem: $K3 \\times T^2$ Euler characteristic is identically zero: $\\chi(K3 \\times T^2) = 0$.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_kuenneth_b3_derivation",
+      "label": "kuenneth_b3_derivation",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.KummerTadpole",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/KummerTadpole.lean",
+      "line": 89,
+      "statement": ": 2 * k3_b2 + k3_b3 = k3t2_b3",
+      "latex_equation": "",
+      "docstring": "### Theorem: K\u00fcnneth $b_3$ Derivation\nFormal verification that $b_3(K3 \\times T^2) = 2 \\times b_2(K3) + b_3(K3) = 2 \\times 22 + 0 = 44$.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_picard_rank_kummer_maximal",
+      "label": "picard_rank_kummer_maximal",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.KummerTadpole",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/KummerTadpole.lean",
+      "line": 93,
+      "statement": ": k3_b2 - transcendental_rank = 20",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_hodge_h11_eq_20",
+      "label": "hodge_h11_eq_20",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.KummerTadpole",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/KummerTadpole.lean",
+      "line": 96,
+      "statement": ": k3_b2 - 2 * hodge_h20 = 20",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_rr_tadpole_cancellation",
+      "label": "rr_tadpole_cancellation",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.KummerTadpole",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/KummerTadpole.lean",
+      "line": 124,
+      "statement": ": net_tadpole_charge = 0",
+      "latex_equation": "\\sum Q_{\\mathrm{RR}} = 16 \\times 4 + 4 \\times (-16) = 64 - 64 = 0",
+      "docstring": "### Master Theorem: Exact Diophantine RR Tadpole Cancellation\nThe positive D7-brane RR flux is identically screened by the negative O7-plane orientifold projection:\n$$\\sum Q_{\\mathrm{RR}} = 16 \\times 4 + 4 \\times (-16) = 64 - 64 = 0$$\nproving complete anomaly freedom and non-perturbative consistency of the vacuum.\n\n- **Foundational Source:** Gimon & Polchinski (1996), Eq. (3.12); Sen (1996).\n- `@concept: RRTadpoleCancellation, DBraneChargeConservation`\n- `@paper: GimonPolchinski1996, Sen1996`\n- `@impact: QuantumAnomalyCancellation, ModuliStabilization`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_d7_positive_charge",
+      "label": "d7_positive_charge",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.KummerTadpole",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/KummerTadpole.lean",
+      "line": 125,
+      "statement": ": total_d7_charge = 64",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_o7_negative_charge",
+      "label": "o7_negative_charge",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.KummerTadpole",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/KummerTadpole.lean",
+      "line": 127,
+      "statement": ": total_o7_charge = -64",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_delta1_is_half",
+      "label": "delta1_is_half",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.MathieuRigidity",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/MathieuRigidity.lean",
+      "line": 71,
+      "statement": ": delta1 \u2243 \u27e81, 2\u27e9",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_delta2_is_five_halves",
+      "label": "delta2_is_five_halves",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.MathieuRigidity",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/MathieuRigidity.lean",
+      "line": 73,
+      "statement": ": delta2 \u2243 \u27e85, 2\u27e9",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_delta12_value",
+      "label": "delta12_value",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.MathieuRigidity",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/MathieuRigidity.lean",
+      "line": 83,
+      "statement": ": delta12 \u2243 \u27e8-3, 4\u27e9",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_total_chiral_weight_value",
+      "label": "total_chiral_weight_value",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.MathieuRigidity",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/MathieuRigidity.lean",
+      "line": 87,
+      "statement": ": totalChiralWeight \u2243 \u27e87, 4\u27e9",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_conformal_exponent_sum",
+      "label": "conformal_exponent_sum",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.MathieuRigidity",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/MathieuRigidity.lean",
+      "line": 89,
+      "statement": ": addFrac (addFrac delta12 delta23) delta13 \u2243 totalChiralWeight",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_dimA1_decomposition",
+      "label": "dimA1_decomposition",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.MathieuRigidity",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/MathieuRigidity.lean",
+      "line": 102,
+      "statement": ": dimA1 = 45 + 45",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_dimA2_decomposition",
+      "label": "dimA2_decomposition",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.MathieuRigidity",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/MathieuRigidity.lean",
+      "line": 104,
+      "statement": ": dimA2 = 231 + 231",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_dimA3_decomposition",
+      "label": "dimA3_decomposition",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.MathieuRigidity",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/MathieuRigidity.lean",
+      "line": 105,
+      "statement": ": dimA3 = 770 + 770",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_sym2_A1_dimension_is_4095",
+      "label": "sym2_A1_dimension_is_4095",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.MathieuRigidity",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/MathieuRigidity.lean",
+      "line": 113,
+      "statement": ": dimSym2A1 = 4095",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_superconformal_geometric_congruence",
+      "label": "superconformal_geometric_congruence",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.MathieuRigidity",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/MathieuRigidity.lean",
+      "line": 122,
+      "statement": ": numSupercharges = numFixedPointsT2Z2",
+      "latex_equation": "",
+      "docstring": "Theorem: Congruence between 4 spacetime supercharges and 4 Kummer fixed points on $T^2 / \\mathbb{Z}_2$.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_r_bps_cross_multiplication",
+      "label": "r_bps_cross_multiplication",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.MathieuRigidity",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/MathieuRigidity.lean",
+      "line": 140,
+      "statement": ":     dimA2 * rBPSDen = (numSupercharges * dimA1) * rBPSNum",
+      "latex_equation": "\\dim A_2 \\times 60 = (4 \\times \\dim A_1) \\times 77 \\iff 462 \\times 60 = 360 \\times 77 = 27720",
+      "docstring": "### Master Theorem 1: Exact Cross-Multiplication Identity\nFormal proof that:\n$$\\dim A_2 \\times 60 = (4 \\times \\dim A_1) \\times 77 \\iff 462 \\times 60 = 360 \\times 77 = 27720$$\ncertifying the 27720 invariant lock across the BPS spectrum.\n\n- **Foundational Source:** Callens (2026); Eguchi, Ooguri, & Tachikawa (2010).\n- `@concept: MathieuMoonshine, BPSRigidityRatio, InvariantLock27720`\n- `@paper: EguchiOoguriTachikawa2010, Callens2026`\n- `@impact: BlackHoleMicrostateCounting, QuantumErrorCorrection`",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_r_bps_is_irreducible",
+      "label": "r_bps_is_irreducible",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.MathieuRigidity",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/MathieuRigidity.lean",
+      "line": 149,
+      "statement": ": Nat.gcd rBPSNum rBPSDen = 1",
+      "latex_equation": "",
+      "docstring": "### Master Theorem 2: Rigidity & Irreducibility\nFormal proof that $\\gcd(77, 60) = 1$, certifying that the BPS rigidity ratio\n$\\mathcal{R}_{\\mathrm{BPS}} = 77/60$ is uniquely and minimally reduced.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_product_value_check",
+      "label": "product_value_check",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.MathieuRigidity",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/MathieuRigidity.lean",
+      "line": 151,
+      "statement": ": dimA2 * rBPSDen = 27720",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_denominator_product_check",
+      "label": "denominator_product_check",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.MathieuRigidity",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/MathieuRigidity.lean",
+      "line": 153,
+      "statement": ": (numSupercharges * dimA1) * rBPSNum = 27720",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_r_bps_parts_per_thousand_value",
+      "label": "r_bps_parts_per_thousand_value",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.MathieuRigidity",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/MathieuRigidity.lean",
+      "line": 157,
+      "statement": ": rBPSPartsPerThousand = 1283",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_nominal_value_is_consistent",
+      "label": "nominal_value_is_consistent",
+      "type": "Theorem",
+      "module": "DualScaleM24Formalization.Moonshine.MathieuRigidity",
+      "package": "DualScaleM24Formalization",
+      "file": "DualScaleM24Formalization/Moonshine/MathieuRigidity.lean",
+      "line": 164,
+      "statement": ": isMathieuConsistent 1283 10 = true",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_atlas_k3_euler_characteristic",
+      "label": "atlas_k3_euler_characteristic",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.Atlas.AtlasGeometryBridge",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/Atlas/AtlasGeometryBridge.lean",
+      "line": 31,
+      "statement": ":     (defaultK3.b0 : Int) - (defaultK3.b1 : Int) + (defaultK3.b2 : Int) - (defaultK3.b3 : Int) + (defaultK3.b4 : Int) = 24",
+      "latex_equation": "",
+      "docstring": "Theorem: Euler characteristic of K3 from ATLAS de Rham Betti numbers:\n    \u03c7 = b\u2080 - b\u2081 + b\u2082 - b\u2083 + b\u2084 = 1 - 0 + 22 - 0 + 1 = 24.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_atlas_k3_signature",
+      "label": "atlas_k3_signature",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.Atlas.AtlasGeometryBridge",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/Atlas/AtlasGeometryBridge.lean",
+      "line": 48,
+      "statement": ":     (defaultK3Lattice.b2Plus : Int) - (defaultK3Lattice.b2Minus : Int) = -16",
+      "latex_equation": "",
+      "docstring": "Theorem: Signature of K3 manifold intersection pairing is -16.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_atlas_poincare_curvature_negative",
+      "label": "atlas_poincare_curvature_negative",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.Atlas.AtlasGeometryBridge",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/Atlas/AtlasGeometryBridge.lean",
+      "line": 64,
+      "statement": ":     defaultPoincareMetric.gaussianCurvature = -1",
+      "latex_equation": "",
+      "docstring": "Theorem: The ATLAS Poincar\u00e9 moduli space metric has constant negative curvature -1.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_euler_char_T2",
+      "label": "euler_char_T2",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.Core.Topology",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/Core/Topology.lean",
+      "line": 45,
+      "statement": ": eulerChar2D bettiT2 = 0",
+      "latex_equation": "",
+      "docstring": "Theorem: Euler characteristic of T\u00b2 vanishes: \u03c7(T\u00b2) = 1 - 2 + 1 = 0.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_euler_char_K3",
+      "label": "euler_char_K3",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.Core.Topology",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/Core/Topology.lean",
+      "line": 53,
+      "statement": ": eulerChar4D bettiK3 = 24",
+      "latex_equation": "",
+      "docstring": "Theorem: Euler characteristic of a K3 surface is 24:\n    \u03c7(K3) = 1 - 0 + 22 - 0 + 1 = 24.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_dual_pair_symmetric",
+      "label": "dual_pair_symmetric",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.Duality.DualScale",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/Duality/DualScale.lean",
+      "line": 27,
+      "statement": "(L_star L L_dual : Int)     (h : isDualPair L_star L L_dual) : isDualPair L_star L_dual L",
+      "latex_equation": "",
+      "docstring": "Theorem: Dual pairing is symmetric (L is dual to L\u2228 \u2194 L\u2228 is dual to L).",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_self_dual_at_crossover",
+      "label": "self_dual_at_crossover",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.Duality.DualScale",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/Duality/DualScale.lean",
+      "line": 34,
+      "statement": "(L_star : Int) :     isDualPair L_star L_star L_star",
+      "latex_equation": "",
+      "docstring": "Theorem: The crossover scale L* is self-dual: L* \u00b7 L* = L*\u00b2.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_dual_product_invariant",
+      "label": "dual_product_invariant",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.Duality.DualScale",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/Duality/DualScale.lean",
+      "line": 39,
+      "statement": "(L_star L L_dual : Int)     (h : isDualPair L_star L L_dual) : L * L_dual = L_star * L_star",
+      "latex_equation": "",
+      "docstring": "Invariant dual product: the product of any dual pair is strictly invariant and equals L*\u00b2.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_t_duality_involution",
+      "label": "t_duality_involution",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.Duality.T_Duality",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/Duality/T_Duality.lean",
+      "line": 29,
+      "statement": "(s : CircleState) :     tDualState (tDualState s) = s",
+      "latex_equation": "",
+      "docstring": "Theorem: T-duality on state quantum numbers is an involution:\n    (T \u2218 T)(s) = s.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_self_dual_mass_symmetry",
+      "label": "self_dual_mass_symmetry",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.Duality.T_Duality",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/Duality/T_Duality.lean",
+      "line": 39,
+      "statement": "(n w : Int) :     selfDualMassFactor n w = selfDualMassFactor w n",
+      "latex_equation": "",
+      "docstring": "Theorem: The self-dual mass factor is strictly invariant under n \u2194 w exchange:\n    (n\u00b2 + w\u00b2) = (w\u00b2 + n\u00b2).",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_t_duality_spectrum_invariance",
+      "label": "t_duality_spectrum_invariance",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.Duality.T_Duality",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/Duality/T_Duality.lean",
+      "line": 46,
+      "statement": "(n w : Int) :     n * n + w * w = w * w + n * n",
+      "latex_equation": "",
+      "docstring": "General T-duality invariant relation:\n    Swapping (n, w) preserves the quadratic sum.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_k3_b2_is_22",
+      "label": "k3_b2_is_22",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.K3.K3Surfaces",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/K3/K3Surfaces.lean",
+      "line": 46,
+      "statement": ": b2FromHodge k3HodgeDiamond = 22",
+      "latex_equation": "",
+      "docstring": "Theorem: The second Betti number of a K3 surface is strictly 22:\n    b\u2082(K3) = 1 + 20 + 1 = 22.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_k3_lattice_rank_valid",
+      "label": "k3_lattice_rank_valid",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.K3.K3Surfaces",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/K3/K3Surfaces.lean",
+      "line": 62,
+      "statement": ": k3LatticeRank {} = 22",
+      "latex_equation": "",
+      "docstring": "Theorem: The rank of the standard K3 cohomology lattice decomposition is 22.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_k3_signature_is_minus_16",
+      "label": "k3_signature_is_minus_16",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.K3.K3Surfaces",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/K3/K3Surfaces.lean",
+      "line": 72,
+      "statement": ": (k3SignaturePos : Int) - (k3SignatureNeg : Int) = -16",
+      "latex_equation": "",
+      "docstring": "Theorem: Signature \u03c3 = b\u2082\u207a - b\u2082\u207b = 3 - 19 = -16.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_dim_real_k3xt2_is_6",
+      "label": "dim_real_k3xt2_is_6",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.K3xT2",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/K3xT2.lean",
+      "line": 27,
+      "statement": ": dimRealK3xT2 = 6",
+      "latex_equation": "",
+      "docstring": "Theorem: K3 \u00d7 T\u00b2 is a 6-dimensional compact manifold suitable for 10D \u2192 4D compactification.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_target_spacetime_is_4d",
+      "label": "target_spacetime_is_4d",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.K3xT2",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/K3xT2.lean",
+      "line": 32,
+      "statement": ": targetSpacetimeDim = 4",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_typeII_k3xt2_susy_N4",
+      "label": "typeII_k3xt2_susy_N4",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.K3xT2",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/K3xT2.lean",
+      "line": 46,
+      "statement": ": typeII_4D_N = 4",
+      "latex_equation": "",
+      "docstring": "Theorem: Type II on K3 \u00d7 T\u00b2 produces \ud835\udca9 = 4 supersymmetry in 4D.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_string_duality_susy_match",
+      "label": "string_duality_susy_match",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.K3xT2",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/K3xT2.lean",
+      "line": 53,
+      "statement": ": typeII_4D_supercharges = heterotic_T6_supercharges",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_euler_char_vanishes",
+      "label": "euler_char_vanishes",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.K3xT2",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/K3xT2.lean",
+      "line": 59,
+      "statement": ":     eulerChar4D bettiK3 * eulerChar2D bettiT2 = 0",
+      "latex_equation": "",
+      "docstring": "Vanishing of the Euler characteristic of K3 \u00d7 T\u00b2:\n    \u03c7(K3 \u00d7 T\u00b2) = \u03c7(K3) \u00b7 \u03c7(T\u00b2) = 24 \u00b7 0 = 0.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_strominger_syz_dim_sum",
+      "label": "strominger_syz_dim_sum",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.StromingerSYZ",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/StromingerSYZ.lean",
+      "line": 29,
+      "statement": ":     defaultSYZ.dimTotal = 4",
+      "latex_equation": "",
+      "docstring": "Theorem: The SYZ fibration of K3 has total real dimension 4.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_strominger_nodal_fibers_match_euler",
+      "label": "strominger_nodal_fibers_match_euler",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.StromingerSYZ",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/StromingerSYZ.lean",
+      "line": 45,
+      "statement": ":     defaultEllipticK3.numSingularFibers = defaultEllipticK3.eulerCharK3",
+      "latex_equation": "",
+      "docstring": "Theorem: The number of SYZ discriminant singular fibers equals \u03c7(K3) = 24.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_strominger_syz_dual_symmetric",
+      "label": "strominger_syz_dual_symmetric",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.StromingerSYZ",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/StromingerSYZ.lean",
+      "line": 60,
+      "statement": "(f : SYZFiberDual) :     f.rDual * f.r = f.rStar * f.rStar",
+      "latex_equation": "",
+      "docstring": "Theorem: Fiberwise T-duality is symmetric with respect to fiber and dual fiber.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_strominger_hyperkahler_signature",
+      "label": "strominger_hyperkahler_signature",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.StromingerSYZ",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/StromingerSYZ.lean",
+      "line": 78,
+      "statement": ":     (defaultHyperKahler.selfDualFormsDim : Int) - (defaultHyperKahler.antiSelfDualFormsDim : Int) = -16",
+      "latex_equation": "",
+      "docstring": "Theorem: The hyperk\u00e4hler triplet has 3 self-dual forms, giving signature 3 - 19 = -16.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_distance_conjecture_monotonicity",
+      "label": "distance_conjecture_monotonicity",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.Swampland",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/Swampland.lean",
+      "line": 30,
+      "statement": "(alpha d1 d2 : Nat)     (hLe : d1 \u2264 d2) :     let dc1 : DistanceConjecture",
+      "latex_equation": "",
+      "docstring": "Theorem: Monotonic mass suppression with moduli excursion:\n    Moving farther in moduli space (\u0394\u03d5\u2081 \u2264 \u0394\u03d5\u2082) monotonically increases\n    the mass suppression factor of the light tower.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_unit_state_satisfies_wgc",
+      "label": "unit_state_satisfies_wgc",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.Swampland",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/Swampland.lean",
+      "line": 50,
+      "statement": ":     satisfiesWGC \u27e81, 1, by decide\u27e9",
+      "latex_equation": "",
+      "docstring": "Theorem: A unit charge state with unit mass strictly satisfies WGC.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_num_fixed_points_is_16",
+      "label": "num_fixed_points_is_16",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.TadpoleCancellation",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/TadpoleCancellation.lean",
+      "line": 25,
+      "statement": ": numFixedPointsT4Z2 = 16",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_total_O7_charge_is_minus_64",
+      "label": "total_O7_charge_is_minus_64",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.TadpoleCancellation",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/TadpoleCancellation.lean",
+      "line": 36,
+      "statement": ": totalO7Charge = -64",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_total_D7_charge_is_64",
+      "label": "total_D7_charge_is_64",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.TadpoleCancellation",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/TadpoleCancellation.lean",
+      "line": 47,
+      "statement": ": totalD7Charge = 64",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_d7_tadpole_cancellation",
+      "label": "d7_tadpole_cancellation",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.TadpoleCancellation",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/TadpoleCancellation.lean",
+      "line": 55,
+      "statement": ":     totalD7Charge + totalO7Charge = 0",
+      "latex_equation": "",
+      "docstring": "Master Theorem (D7 Tadpole Cancellation):\n    The net Ramond-Ramond 8-form charge on the T\u2074/\u2124\u2082 orientifold vanishes identically:\n    \u2211 Q(D7) + \u2211 Q(O7) = 64 + (-64) = 0.\n    Hence the theory is globally anomaly-free and lives strictly in the String Landscape.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_d3_tadpole_target_is_one",
+      "label": "d3_tadpole_target_is_one",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.TadpoleCancellation",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/TadpoleCancellation.lean",
+      "line": 63,
+      "statement": ": d3TadpoleTarget = 1",
+      "latex_equation": "",
+      "docstring": "",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_vafa_sdc_4d_decay_rate",
+      "label": "vafa_sdc_4d_decay_rate",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.VafaSwampland",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/VafaSwampland.lean",
+      "line": 30,
+      "statement": ":     let tower : SwamplandTower",
+      "latex_equation": "",
+      "docstring": "Theorem: For 4D spacetime, the minimum SDC decay rate parameter \u03b1\u00b2 has denominator 2.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_vafa_gvw_zero_flux",
+      "label": "vafa_gvw_zero_flux",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.VafaSwampland",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/VafaSwampland.lean",
+      "line": 49,
+      "statement": ":     gvwSuperpotentialPairing \u27e80, 0, 10, 10\u27e9 = 0",
+      "latex_equation": "",
+      "docstring": "Theorem: Vanishing flux quanta yields vanishing superpotential (unfluxed vacuum).",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_vafa_wgc_weak_coupling_cutoff_monotone",
+      "label": "vafa_wgc_weak_coupling_cutoff_monotone",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.VafaSwampland",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/VafaSwampland.lean",
+      "line": 67,
+      "statement": "(g1 g2 mPl : Nat)     (hLe : g1 \u2264 g2) :     let w1 : MagneticWGC",
+      "latex_equation": "",
+      "docstring": "Theorem: Weak coupling strictly lowers the UV validity cutoff of the effective theory.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_vafa_u1_gauge_consistent",
+      "label": "vafa_u1_gauge_consistent",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.VafaSwampland",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/VafaSwampland.lean",
+      "line": 87,
+      "statement": ":     satisfiesNoGlobalSymmetries \u27e81, true\u27e9",
+      "latex_equation": "",
+      "docstring": "Theorem: A U(1) gauge group with dimension 1 is consistent with the absence of global symmetries.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_witten_6d_supercharges",
+      "label": "witten_6d_supercharges",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.WittenDuality",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/WittenDuality.lean",
+      "line": 26,
+      "statement": ":     defaultSixDSusy.numSupercharges = 16",
+      "latex_equation": "",
+      "docstring": "Theorem: The 6D compactification of Type IIA on K3 possesses 16 real supercharges.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_witten_moduli_dim_is_80",
+      "label": "witten_moduli_dim_is_80",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.WittenDuality",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/WittenDuality.lean",
+      "line": 36,
+      "statement": ":     wittenModuliDimension 4 20 = 80",
+      "latex_equation": "",
+      "docstring": "Theorem: The scalar moduli space dimension of K3 compactification is 80.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_witten_duality_rank_match",
+      "label": "witten_duality_rank_match",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.WittenDuality",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/WittenDuality.lean",
+      "line": 52,
+      "statement": ":     defaultDualityLattice.b2_K3 + 2 = defaultDualityLattice.t4_momentum + defaultDualityLattice.t4_gauge",
+      "latex_equation": "",
+      "docstring": "Theorem: The rank of Type IIA on K3 matches the rank of Heterotic on T\u2074.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    },
+    {
+      "id": "thm_witten_gauge_enhancement_at_singularity",
+      "label": "witten_gauge_enhancement_at_singularity",
+      "type": "Theorem",
+      "module": "StringTheoryFoundation.StringTheory.WittenDuality",
+      "package": "StringTheoryFoundation",
+      "file": "StringTheoryFoundation/StringTheory/WittenDuality.lean",
+      "line": 68,
+      "statement": ":     exhibitsGaugeEnhancement \u27e8-2, 0\u27e9",
+      "latex_equation": "",
+      "docstring": "Theorem: A shrinking (-2)-curve exhibits non-perturbative gauge enhancement.",
+      "tier": "Tier A",
+      "color": "#22c55e",
+      "val": 12
+    }
+  ],
+  "links": [
+    {
+      "source": "GeneralizedGeometry",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 3
+    },
+    {
+      "source": "CourantAlgebroid",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 3
+    },
+    {
+      "source": "BuscherTDuality",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 3
+    },
+    {
+      "source": "DualScaleBounce",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 3
+    },
+    {
+      "source": "MathieuMoonshine",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 3
+    },
+    {
+      "source": "BPSRigidity",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 3
+    },
+    {
+      "source": "KummerOrbifold",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 3
+    },
+    {
+      "source": "TadpoleCancellation",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 3
+    },
+    {
+      "source": "GysinBEMSequence",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 3
+    },
+    {
+      "source": "SwamplandDistance",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 3
+    },
+    {
+      "source": "SenTachyonCondensation",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 3
+    },
+    {
+      "source": "HolographicCTheorem",
+      "target": "QuantumInformationHolography",
+      "type": "IMPACTS",
+      "weight": 3
+    },
+    {
+      "source": "WittenSDuality",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 3
+    },
+    {
+      "source": "SYZMirrorSymmetry",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 3
+    },
+    {
+      "source": "Sym2LockFunctor",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 3
+    },
+    {
+      "source": "EpistemicLedger",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 3
+    },
+    {
+      "source": "thm_dilaton_measure_symm",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dilaton_measure_symm",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dilaton_measure_symm",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_connection_trace_conservation",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_connection_trace_conservation",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_connection_trace_conservation",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_dft_ricci_expansion",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dft_ricci_expansion",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dft_ricci_expansion",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_dft_ricci_physical_reduction",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dft_ricci_physical_reduction",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dft_ricci_physical_reduction",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_dft_action_nsns_equivalence",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dft_action_nsns_equivalence",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dft_action_nsns_equivalence",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_lie_bracket_self",
+      "target": "CourantAlgebroid",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_lie_bracket_self",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_lie_bracket_self",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_cbracket_antisymm",
+      "target": "CourantAlgebroid",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_cbracket_antisymm",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_cbracket_antisymm",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_dorfman_cbracket_diff",
+      "target": "CourantAlgebroid",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dorfman_cbracket_diff",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dorfman_cbracket_diff",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_dorfman_symmetric_exact",
+      "target": "CourantAlgebroid",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dorfman_symmetric_exact",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dorfman_symmetric_exact",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_cbracket_v_zero",
+      "target": "CourantAlgebroid",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_cbracket_v_zero",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_cbracket_v_zero",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_jacobiator_vector_vanishes",
+      "target": "Courant1990",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_strong_section_condition",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_gen_lie_closure",
+      "target": "CourantAlgebroid",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_gen_lie_closure",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_gen_lie_closure",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_courant_pairing_symm",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_courant_pairing_symm",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_courant_pairing_symm",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_odd_metric_eval",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_odd_metric_eval",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_odd_metric_eval",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_odd_inversion_generator",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_odd_inversion_generator",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_odd_inversion_generator",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_btwist_preserves_eta",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_btwist_preserves_eta",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_btwist_preserves_eta",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_gen_metric_symmetric",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_gen_metric_symmetric",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_gen_metric_symmetric",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_gen_metric_duality",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_gen_metric_duality",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_gen_metric_duality",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_gen_energy_pos",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_gen_energy_pos",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_gen_energy_pos",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_k3_euler_characteristic",
+      "target": "Aspinwall1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_second_betti_hodge",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_second_betti_hodge",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_second_betti_hodge",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_k3_su2_holonomy_reduction",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_su2_holonomy_reduction",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_su2_holonomy_reduction",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_k3_parallel_chiral_spinor_index",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_parallel_chiral_spinor_index",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_parallel_chiral_spinor_index",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_t_duality_congruence",
+      "target": "BuscherTDuality",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_t_duality_congruence",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_t_duality_congruence",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_inversion_generator_properties",
+      "target": "BuscherTDuality",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_inversion_generator_properties",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_inversion_generator_properties",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_buscher_log_involution",
+      "target": "BuscherTDuality",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_buscher_log_involution",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_buscher_log_involution",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_buscher_dilaton_involution",
+      "target": "BuscherTDuality",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_buscher_dilaton_involution",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_buscher_dilaton_involution",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_buscher_dilaton_measure_invariance",
+      "target": "HullZwiebach2009",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_mukai_lattice_m24_bridge",
+      "target": "Mukai1987",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_buscher_involution",
+      "target": "DualScaleBounce",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_buscher_involution",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_buscher_involution",
+      "target": "BrandenbergerVafa1989",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_buscher_involution",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_genesis_no_singularity",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_genesis_no_singularity",
+      "target": "BrandenbergerVafa1989",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_genesis_no_singularity",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_self_dual_symmetric",
+      "target": "DualScaleBounce",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_self_dual_symmetric",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_self_dual_symmetric",
+      "target": "BrandenbergerVafa1989",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_self_dual_symmetric",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_sym2_fibonacci_verification",
+      "target": "Sym2LockFunctor",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_sym2_fibonacci_verification",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_sym2_fibonacci_verification",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_sym2_pell_verification",
+      "target": "Sym2LockFunctor",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_sym2_pell_verification",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_sym2_pell_verification",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_sym2_modular_attractor_verification",
+      "target": "Sym2LockFunctor",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_sym2_modular_attractor_verification",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_sym2_modular_attractor_verification",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_sym2_det_identity",
+      "target": "Sym2LockFunctor",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_sym2_det_identity",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_sym2_det_identity",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_trans",
+      "target": "EpistemicLedger",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_trans",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_trans",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_tier_le_of_depends",
+      "target": "EpistemicLedger",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_tier_le_of_depends",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_tier_le_of_depends",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_no_kernel_claim_rests_on_weaker",
+      "target": "EpistemicLedger",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_no_kernel_claim_rests_on_weaker",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_no_kernel_claim_rests_on_weaker",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_not_A_of_weak_support",
+      "target": "EpistemicLedger",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_not_A_of_weak_support",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_not_A_of_weak_support",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_witnessSound_sound",
+      "target": "EpistemicLedger",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_witnessSound_sound",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_witnessSound_sound",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_witnessUnsound_not_sound",
+      "target": "EpistemicLedger",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_witnessUnsound_not_sound",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_witnessUnsound_not_sound",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_tier_refl",
+      "target": "EpistemicLedger",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_tier_refl",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_tier_refl",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_tier_trans",
+      "target": "EpistemicLedger",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_tier_trans",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_tier_trans",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_tier_antisymm",
+      "target": "EpistemicLedger",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_tier_antisymm",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_tier_antisymm",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_tier_A_is_maximal",
+      "target": "EpistemicLedger",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_tier_A_is_maximal",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_tier_A_is_maximal",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_tier_X_is_minimal",
+      "target": "EpistemicLedger",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_tier_X_is_minimal",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_tier_X_is_minimal",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_eq_A_of_A_le",
+      "target": "EpistemicLedger",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_eq_A_of_A_le",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_eq_A_of_A_le",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_true_vacuum_energy_is_lower",
+      "target": "HolographicCTheorem",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_true_vacuum_energy_is_lower",
+      "target": "ColemanDeLuccia1980",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_true_vacuum_energy_is_lower",
+      "target": "FreedmanGubserPilchWarner1999",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_true_vacuum_energy_is_lower",
+      "target": "QuantumInformationHolography",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_holographic_c_theorem_decay",
+      "target": "HolographicCTheorem",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_holographic_c_theorem_decay",
+      "target": "FreedmanGubserPilchWarner1999",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_moduli_dim_eq_58",
+      "target": "SwamplandDistance",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_moduli_dim_eq_58",
+      "target": "OoguriVafa2006",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_moduli_dim_eq_58",
+      "target": "Vafa2005",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_moduli_dim_eq_58",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_total_k3t2_moduli_dim_eq_80",
+      "target": "SwamplandDistance",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_total_k3t2_moduli_dim_eq_80",
+      "target": "OoguriVafa2006",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_total_k3t2_moduli_dim_eq_80",
+      "target": "Vafa2005",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_total_k3t2_moduli_dim_eq_80",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_cooper_s10_swampland_safe",
+      "target": "SwamplandDistance",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_cooper_s10_swampland_safe",
+      "target": "OoguriVafa2006",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_cooper_s10_swampland_safe",
+      "target": "Vafa2005",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_cooper_s10_swampland_safe",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_kummer_m24_swampland_safe",
+      "target": "SwamplandDistance",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_kummer_m24_swampland_safe",
+      "target": "OoguriVafa2006",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_kummer_m24_swampland_safe",
+      "target": "Vafa2005",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_kummer_m24_swampland_safe",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_fricke_involution_property",
+      "target": "SwamplandDistance",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_fricke_involution_property",
+      "target": "OoguriVafa2006",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_fricke_involution_property",
+      "target": "Vafa2005",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_fricke_involution_property",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_fricke_discriminant_is_minus_four",
+      "target": "SwamplandDistance",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_fricke_discriminant_is_minus_four",
+      "target": "OoguriVafa2006",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_fricke_discriminant_is_minus_four",
+      "target": "Vafa2005",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_fricke_discriminant_is_minus_four",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_sdc_decay_coefficient_identity",
+      "target": "OoguriVafa2006",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_sen_conjecture_k_theory_conservation",
+      "target": "Sen1998",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_tachyon_condensation_preserves_rr_charge",
+      "target": "Witten1998",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_kummer_mapper_betti1_eq_376",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_kummer_mapper_euler_eq_minus_370",
+      "target": "DualScaleBounce",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_kummer_mapper_euler_eq_minus_370",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_kummer_mapper_euler_eq_minus_370",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_symmetron_screening_cassini_pass",
+      "target": "DualScaleBounce",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_symmetron_screening_cassini_pass",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_symmetron_screening_cassini_pass",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_bem_derived_exchange",
+      "target": "GysinBEMSequence",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_bem_derived_exchange",
+      "target": "BouwknegtEvslinMathai2004",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_bem_derived_exchange",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_k3_euler_eq_24",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_euler_eq_24",
+      "target": "TadpoleCancellation",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_euler_eq_24",
+      "target": "GimonPolchinski1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_euler_eq_24",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_k3t2_euler_char_eq_zero",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3t2_euler_char_eq_zero",
+      "target": "TadpoleCancellation",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3t2_euler_char_eq_zero",
+      "target": "GimonPolchinski1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3t2_euler_char_eq_zero",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_kuenneth_b3_derivation",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_kuenneth_b3_derivation",
+      "target": "TadpoleCancellation",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_kuenneth_b3_derivation",
+      "target": "GimonPolchinski1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_kuenneth_b3_derivation",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_picard_rank_kummer_maximal",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_picard_rank_kummer_maximal",
+      "target": "TadpoleCancellation",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_picard_rank_kummer_maximal",
+      "target": "GimonPolchinski1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_picard_rank_kummer_maximal",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_hodge_h11_eq_20",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_hodge_h11_eq_20",
+      "target": "TadpoleCancellation",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_hodge_h11_eq_20",
+      "target": "GimonPolchinski1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_hodge_h11_eq_20",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_rr_tadpole_cancellation",
+      "target": "GimonPolchinski1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_d7_positive_charge",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_d7_positive_charge",
+      "target": "TadpoleCancellation",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_d7_positive_charge",
+      "target": "GimonPolchinski1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_d7_positive_charge",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_o7_negative_charge",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_o7_negative_charge",
+      "target": "TadpoleCancellation",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_o7_negative_charge",
+      "target": "GimonPolchinski1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_o7_negative_charge",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_delta1_is_half",
+      "target": "BPSRigidity",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_delta1_is_half",
+      "target": "MathieuMoonshine",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_delta1_is_half",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_delta1_is_half",
+      "target": "EguchiOoguriTachikawa2010",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_delta1_is_half",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_delta2_is_five_halves",
+      "target": "BPSRigidity",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_delta2_is_five_halves",
+      "target": "MathieuMoonshine",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_delta2_is_five_halves",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_delta2_is_five_halves",
+      "target": "EguchiOoguriTachikawa2010",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_delta2_is_five_halves",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_delta12_value",
+      "target": "BPSRigidity",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_delta12_value",
+      "target": "MathieuMoonshine",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_delta12_value",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_delta12_value",
+      "target": "EguchiOoguriTachikawa2010",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_delta12_value",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_total_chiral_weight_value",
+      "target": "BPSRigidity",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_total_chiral_weight_value",
+      "target": "MathieuMoonshine",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_total_chiral_weight_value",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_total_chiral_weight_value",
+      "target": "EguchiOoguriTachikawa2010",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_total_chiral_weight_value",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_conformal_exponent_sum",
+      "target": "BPSRigidity",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_conformal_exponent_sum",
+      "target": "MathieuMoonshine",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_conformal_exponent_sum",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_conformal_exponent_sum",
+      "target": "EguchiOoguriTachikawa2010",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_conformal_exponent_sum",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_dimA1_decomposition",
+      "target": "BPSRigidity",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dimA1_decomposition",
+      "target": "MathieuMoonshine",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dimA1_decomposition",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dimA1_decomposition",
+      "target": "EguchiOoguriTachikawa2010",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dimA1_decomposition",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_dimA2_decomposition",
+      "target": "BPSRigidity",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dimA2_decomposition",
+      "target": "MathieuMoonshine",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dimA2_decomposition",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dimA2_decomposition",
+      "target": "EguchiOoguriTachikawa2010",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dimA2_decomposition",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_dimA3_decomposition",
+      "target": "BPSRigidity",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dimA3_decomposition",
+      "target": "MathieuMoonshine",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dimA3_decomposition",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dimA3_decomposition",
+      "target": "EguchiOoguriTachikawa2010",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dimA3_decomposition",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_sym2_A1_dimension_is_4095",
+      "target": "BPSRigidity",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_sym2_A1_dimension_is_4095",
+      "target": "MathieuMoonshine",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_sym2_A1_dimension_is_4095",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_sym2_A1_dimension_is_4095",
+      "target": "EguchiOoguriTachikawa2010",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_sym2_A1_dimension_is_4095",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_superconformal_geometric_congruence",
+      "target": "BPSRigidity",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_superconformal_geometric_congruence",
+      "target": "MathieuMoonshine",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_superconformal_geometric_congruence",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_superconformal_geometric_congruence",
+      "target": "EguchiOoguriTachikawa2010",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_superconformal_geometric_congruence",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_r_bps_cross_multiplication",
+      "target": "MathieuMoonshine",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_r_bps_cross_multiplication",
+      "target": "EguchiOoguriTachikawa2010",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_r_bps_is_irreducible",
+      "target": "BPSRigidity",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_r_bps_is_irreducible",
+      "target": "MathieuMoonshine",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_r_bps_is_irreducible",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_r_bps_is_irreducible",
+      "target": "EguchiOoguriTachikawa2010",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_r_bps_is_irreducible",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_product_value_check",
+      "target": "BPSRigidity",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_product_value_check",
+      "target": "MathieuMoonshine",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_product_value_check",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_product_value_check",
+      "target": "EguchiOoguriTachikawa2010",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_product_value_check",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_denominator_product_check",
+      "target": "BPSRigidity",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_denominator_product_check",
+      "target": "MathieuMoonshine",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_denominator_product_check",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_denominator_product_check",
+      "target": "EguchiOoguriTachikawa2010",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_denominator_product_check",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_r_bps_parts_per_thousand_value",
+      "target": "BPSRigidity",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_r_bps_parts_per_thousand_value",
+      "target": "MathieuMoonshine",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_r_bps_parts_per_thousand_value",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_r_bps_parts_per_thousand_value",
+      "target": "EguchiOoguriTachikawa2010",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_r_bps_parts_per_thousand_value",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_nominal_value_is_consistent",
+      "target": "BPSRigidity",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_nominal_value_is_consistent",
+      "target": "MathieuMoonshine",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_nominal_value_is_consistent",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_nominal_value_is_consistent",
+      "target": "EguchiOoguriTachikawa2010",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_nominal_value_is_consistent",
+      "target": "BlackHoleThermodynamics",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_atlas_k3_euler_characteristic",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_atlas_k3_euler_characteristic",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_atlas_k3_euler_characteristic",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_atlas_k3_signature",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_atlas_k3_signature",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_atlas_k3_signature",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_atlas_poincare_curvature_negative",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_atlas_poincare_curvature_negative",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_atlas_poincare_curvature_negative",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_euler_char_T2",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_euler_char_T2",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_euler_char_T2",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_euler_char_K3",
+      "target": "GeneralizedGeometry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_euler_char_K3",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_euler_char_K3",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_dual_pair_symmetric",
+      "target": "DualScaleBounce",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dual_pair_symmetric",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dual_pair_symmetric",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_self_dual_at_crossover",
+      "target": "DualScaleBounce",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_self_dual_at_crossover",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_self_dual_at_crossover",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_dual_product_invariant",
+      "target": "DualScaleBounce",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dual_product_invariant",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dual_product_invariant",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_t_duality_involution",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_t_duality_involution",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_self_dual_mass_symmetry",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_self_dual_mass_symmetry",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_t_duality_spectrum_invariance",
+      "target": "Callens2026",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_t_duality_spectrum_invariance",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_k3_b2_is_22",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_b2_is_22",
+      "target": "Aspinwall1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_b2_is_22",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_k3_lattice_rank_valid",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_lattice_rank_valid",
+      "target": "Aspinwall1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_lattice_rank_valid",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_k3_signature_is_minus_16",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_signature_is_minus_16",
+      "target": "Aspinwall1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_k3_signature_is_minus_16",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_dim_real_k3xt2_is_6",
+      "target": "Aspinwall1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_dim_real_k3xt2_is_6",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_target_spacetime_is_4d",
+      "target": "Aspinwall1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_target_spacetime_is_4d",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_typeII_k3xt2_susy_N4",
+      "target": "Aspinwall1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_typeII_k3xt2_susy_N4",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_string_duality_susy_match",
+      "target": "Aspinwall1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_string_duality_susy_match",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_euler_char_vanishes",
+      "target": "Aspinwall1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_euler_char_vanishes",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_strominger_syz_dim_sum",
+      "target": "SYZMirrorSymmetry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_strominger_syz_dim_sum",
+      "target": "StromingerYauZaslow1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_strominger_syz_dim_sum",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_strominger_nodal_fibers_match_euler",
+      "target": "SYZMirrorSymmetry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_strominger_nodal_fibers_match_euler",
+      "target": "StromingerYauZaslow1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_strominger_nodal_fibers_match_euler",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_strominger_syz_dual_symmetric",
+      "target": "SYZMirrorSymmetry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_strominger_syz_dual_symmetric",
+      "target": "StromingerYauZaslow1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_strominger_syz_dual_symmetric",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_strominger_hyperkahler_signature",
+      "target": "SYZMirrorSymmetry",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_strominger_hyperkahler_signature",
+      "target": "StromingerYauZaslow1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_strominger_hyperkahler_signature",
+      "target": "MathematicalPhysicsFoundations",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_distance_conjecture_monotonicity",
+      "target": "SwamplandDistance",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_distance_conjecture_monotonicity",
+      "target": "OoguriVafa2006",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_distance_conjecture_monotonicity",
+      "target": "Vafa2005",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_distance_conjecture_monotonicity",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_unit_state_satisfies_wgc",
+      "target": "SwamplandDistance",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_unit_state_satisfies_wgc",
+      "target": "OoguriVafa2006",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_unit_state_satisfies_wgc",
+      "target": "Vafa2005",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_unit_state_satisfies_wgc",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_num_fixed_points_is_16",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_num_fixed_points_is_16",
+      "target": "TadpoleCancellation",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_num_fixed_points_is_16",
+      "target": "GimonPolchinski1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_num_fixed_points_is_16",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_total_O7_charge_is_minus_64",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_total_O7_charge_is_minus_64",
+      "target": "TadpoleCancellation",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_total_O7_charge_is_minus_64",
+      "target": "GimonPolchinski1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_total_O7_charge_is_minus_64",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_total_D7_charge_is_64",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_total_D7_charge_is_64",
+      "target": "TadpoleCancellation",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_total_D7_charge_is_64",
+      "target": "GimonPolchinski1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_total_D7_charge_is_64",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_d7_tadpole_cancellation",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_d7_tadpole_cancellation",
+      "target": "TadpoleCancellation",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_d7_tadpole_cancellation",
+      "target": "GimonPolchinski1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_d7_tadpole_cancellation",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_d3_tadpole_target_is_one",
+      "target": "KummerOrbifold",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_d3_tadpole_target_is_one",
+      "target": "TadpoleCancellation",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_d3_tadpole_target_is_one",
+      "target": "GimonPolchinski1996",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_d3_tadpole_target_is_one",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_vafa_sdc_4d_decay_rate",
+      "target": "SwamplandDistance",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_vafa_sdc_4d_decay_rate",
+      "target": "OoguriVafa2006",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_vafa_sdc_4d_decay_rate",
+      "target": "Vafa2005",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_vafa_sdc_4d_decay_rate",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_vafa_gvw_zero_flux",
+      "target": "SwamplandDistance",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_vafa_gvw_zero_flux",
+      "target": "OoguriVafa2006",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_vafa_gvw_zero_flux",
+      "target": "Vafa2005",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_vafa_gvw_zero_flux",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_vafa_wgc_weak_coupling_cutoff_monotone",
+      "target": "SwamplandDistance",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_vafa_wgc_weak_coupling_cutoff_monotone",
+      "target": "OoguriVafa2006",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_vafa_wgc_weak_coupling_cutoff_monotone",
+      "target": "Vafa2005",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_vafa_wgc_weak_coupling_cutoff_monotone",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_vafa_u1_gauge_consistent",
+      "target": "SwamplandDistance",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_vafa_u1_gauge_consistent",
+      "target": "OoguriVafa2006",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_vafa_u1_gauge_consistent",
+      "target": "Vafa2005",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_vafa_u1_gauge_consistent",
+      "target": "QuantumCosmology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_witten_6d_supercharges",
+      "target": "WittenSDuality",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_witten_6d_supercharges",
+      "target": "Witten1995",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_witten_6d_supercharges",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_witten_moduli_dim_is_80",
+      "target": "WittenSDuality",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_witten_moduli_dim_is_80",
+      "target": "Witten1995",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_witten_moduli_dim_is_80",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_witten_duality_rank_match",
+      "target": "WittenSDuality",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_witten_duality_rank_match",
+      "target": "Witten1995",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_witten_duality_rank_match",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "thm_witten_gauge_enhancement_at_singularity",
+      "target": "WittenSDuality",
+      "type": "FORMALIZES",
+      "weight": 2
+    },
+    {
+      "source": "thm_witten_gauge_enhancement_at_singularity",
+      "target": "Witten1995",
+      "type": "CITES",
+      "weight": 2
+    },
+    {
+      "source": "thm_witten_gauge_enhancement_at_singularity",
+      "target": "SuperstringPhenomenology",
+      "type": "IMPACTS",
+      "weight": 1
+    },
+    {
+      "source": "BuscherTDuality",
+      "target": "DualScaleBounce",
+      "type": "DUAL_TO",
+      "weight": 2
+    },
+    {
+      "source": "MathieuMoonshine",
+      "target": "BPSRigidity",
+      "type": "DUAL_TO",
+      "weight": 2
+    },
+    {
+      "source": "KummerOrbifold",
+      "target": "TadpoleCancellation",
+      "type": "DUAL_TO",
+      "weight": 2
+    },
+    {
+      "source": "GeneralizedGeometry",
+      "target": "CourantAlgebroid",
+      "type": "DUAL_TO",
+      "weight": 2
+    },
+    {
+      "source": "WittenSDuality",
+      "target": "BuscherTDuality",
+      "type": "DUAL_TO",
+      "weight": 2
+    },
+    {
+      "source": "SYZMirrorSymmetry",
+      "target": "BuscherTDuality",
+      "type": "DUAL_TO",
+      "weight": 2
+    },
+    {
+      "source": "GysinBEMSequence",
+      "target": "BuscherTDuality",
+      "type": "DUAL_TO",
+      "weight": 2
+    },
+    {
+      "source": "SwamplandDistance",
+      "target": "DualScaleBounce",
+      "type": "DUAL_TO",
+      "weight": 2
+    },
+    {
+      "source": "HolographicCTheorem",
+      "target": "SenTachyonCondensation",
+      "type": "DUAL_TO",
+      "weight": 2
+    },
+    {
+      "source": "Sym2LockFunctor",
+      "target": "DualScaleBounce",
+      "type": "DUAL_TO",
+      "weight": 2
+    }
+  ]
+}

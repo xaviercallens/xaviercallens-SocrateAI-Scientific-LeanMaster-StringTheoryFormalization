@@ -160,7 +160,31 @@ OK
 
 ---
 
-## 5. Epistemic Classification (SocrateAI-Mathesis Standard)
+## 5. LeanGraph: Open-Source Knowledge Discovery Network
+
+To maximize research discoverability across theoretical physics and interactive theorem proving, this repository includes **LeanGraph**: an open-source, machine-readable discovery network linking formal proofs directly to foundational literature and real-world domain impacts.
+
+[![Knowledge Graph](https://img.shields.io/badge/LeanGraph-176_Nodes_%7C_431_Edges-blueviolet.svg)](graph/README.md)
+[![Interactive Visualizer](https://img.shields.io/badge/Visualizer-D3.js_HTML5-orange.svg)](graph/index.html)
+
+- **176 Graph Nodes:**
+  - **136 Kernel Theorems** (Tier A verified with exact Lean 4 signatures and lines).
+  - **19 Foundational Literature Papers** (with arXiv links, journal citations, and key formulas).
+  - **16 Core Physical Concepts** (*Generalized Geometry*, *T-Duality*, *Mathieu Moonshine*, *Sym² Lock*, etc.).
+  - **5 Universal Impact Domains** (*Quantum Cosmology*, *Black Hole Thermodynamics*, *Superstring Phenomenology*, *Holography & QEC*, *Mathematical Physics*).
+- **431 Multi-Relational Edges:** Linking formal proofs (`FORMALIZES`), literature foundations (`CITES`), physical dualities (`DUAL_TO`), and macro domain impacts (`IMPACTS`).
+
+### Launch the Visualizer
+Open [`graph/index.html`](graph/index.html) in any browser, or serve locally:
+```bash
+python3 -m http.server 8000 --directory graph
+```
+
+See the full specification and API in [`graph/README.md`](graph/README.md) and machine-readable data in [`graph/leangraph.json`](graph/leangraph.json).
+
+---
+
+## 6. Epistemic Classification (SocrateAI-Mathesis Standard)
 
 Every theorem in this repository is strictly cataloged in [`LEDGER.md`](LEDGER.md) according to the Stream 0 Epistemic Taxonomy:
 
